@@ -2,7 +2,7 @@ import glob
 import math
 THREADS=7
 files = glob.glob(DATA_PATH)
-DATA_PATH = '/home/ffajri/Data/segmenter/*'
+DATA_PATH = '/dev'
 size = int(math.ceil(1.0*len(files)/THREADS))
 
 allfiles = []

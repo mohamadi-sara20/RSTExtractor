@@ -2,7 +2,6 @@ __author__ = 'max'
 
 import torch
 from torch.autograd import Variable
-from torch.nn._functions.thnn import rnnFusedPointwise as fusedBackend
 from torch.nn import functional as F
 
 
@@ -64,7 +63,7 @@ def SkipConnectFastLSTMCell(input, hidden, hidden_skip, w_ih, w_hh, b_ih=None, b
     if input.is_cuda:
         igates = F.linear(input, w_ih)
         hgates = F.linear(hx, w_hh)
-        state = fusedBackend.LSTMFused.apply
+        state = torch.nn._functions.thnn.rnnFusedPointwise.LSTMFused.apply
         return state(igates, hgates, cx) if b_ih is None else state(igates, hgates, cx, b_ih, b_hh)
 
     gates = F.linear(input, w_ih, b_ih) + F.linear(hx, w_hh, b_hh)

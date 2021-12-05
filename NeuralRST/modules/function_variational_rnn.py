@@ -1,14 +1,11 @@
 import torch
-from torch.nn._functions.thnn import rnnFusedPointwise as fusedBackend
-from torch.nn import functional as F
-
 
 def VarRNNReLUCell(input, hidden, w_ih, w_hh, b_ih=None, b_hh=None, noise_in=None, noise_hidden=None):
     if noise_in is not None:
         input = input * noise_in
     if noise_hidden is not None:
         hidden = hidden * noise_hidden
-    hy = F.relu(F.linear(input, w_ih, b_ih) + F.linear(hidden, w_hh, b_hh))
+    hy = torch.nn.relu(torch.nn.linear(input, w_ih, b_ih) + torch.nn.linear(hidden, w_hh, b_hh))
     return hy
 
 
@@ -17,7 +14,7 @@ def VarRNNTanhCell(input, hidden, w_ih, w_hh, b_ih=None, b_hh=None, noise_in=Non
         input = input * noise_in
     if noise_hidden is not None:
         hidden = hidden * noise_hidden
-    hy = F.tanh(F.linear(input, w_ih, b_ih) + F.linear(hidden, w_hh, b_hh))
+    hy = torch.nn.tanh(torch.nn.linear(input, w_ih, b_ih) + torch.nn.linear(hidden, w_hh, b_hh))
     return hy
 
 
@@ -31,13 +28,13 @@ def VarLSTMCell(input, hidden, w_ih, w_hh, b_ih=None, b_hh=None, noise_in=None, 
 
     ingate, forgetgate, cellgate, outgate = gates
 
-    ingate = F.sigmoid(ingate)
-    forgetgate = F.sigmoid(forgetgate)
-    cellgate = F.tanh(cellgate)
-    outgate = F.sigmoid(outgate)
+    ingate = torch.nn.sigmoid(ingate)
+    forgetgate = torch.nn.sigmoid(forgetgate)
+    cellgate = torch.nn.tanh(cellgate)
+    outgate = torch.nn.sigmoid(outgate)
 
     cy = (forgetgate * cx) + (ingate * cellgate)
-    hy = outgate * F.tanh(cy)
+    hy = outgate * torch.nn.tanh(cy)
 
     return hy, cy
 
@@ -47,25 +44,25 @@ def VarFastLSTMCell(input, hidden, w_ih, w_hh, b_ih=None, b_hh=None, noise_in=No
         input = input * noise_in
 
     if input.is_cuda:
-        igates = F.linear(input, w_ih)
-        hgates = F.linear(hidden[0], w_hh) if noise_hidden is None else F.linear(hidden[0] * noise_hidden, w_hh)
-        state = fusedBackend.LSTMFused.apply
+        igates = torch.nn.linear(input, w_ih)
+        hgates = torch.nn.linear(hidden[0], w_hh) if noise_hidden is None else torch.nn.linear(hidden[0] * noise_hidden, w_hh)
+        state = torch.nn.thnn.rnnFusedPointwise.LSTMFused.apply
         return state(igates, hgates, hidden[1]) if b_ih is None else state(igates, hgates, hidden[1], b_ih, b_hh)
 
     hx, cx = hidden
     if noise_hidden is not None:
         hx = hx * noise_hidden
-    gates = F.linear(input, w_ih, b_ih) + F.linear(hx, w_hh, b_hh)
+    gates = torch.nn.linear(input, w_ih, b_ih) + torch.nn.linear(hx, w_hh, b_hh)
 
     ingate, forgetgate, cellgate, outgate = gates.chunk(4, 1)
 
-    ingate = F.sigmoid(ingate)
-    forgetgate = F.sigmoid(forgetgate)
-    cellgate = F.tanh(cellgate)
-    outgate = F.sigmoid(outgate)
+    ingate = torch.nn.sigmoid(ingate)
+    forgetgate = torch.nn.sigmoid(forgetgate)
+    cellgate = torch.nn.tanh(cellgate)
+    outgate = torch.nn.sigmoid(outgate)
 
     cy = (forgetgate * cx) + (ingate * cellgate)
-    hy = outgate * F.tanh(cy)
+    hy = outgate * torch.nntorch.nn.tanh(cy)
 
     return hy, cy
 
@@ -79,9 +76,9 @@ def VarGRUCell(input, hidden, w_ih, w_hh, b_ih=None, b_hh=None, noise_in=None, n
     i_r, i_i, i_n = gi
     h_r, h_i, h_n = gh
 
-    resetgate = F.sigmoid(i_r + h_r)
-    inputgate = F.sigmoid(i_i + h_i)
-    newgate = F.tanh(i_n + resetgate * h_n)
+    resetgate = torch.nn.sigmoid(i_r + h_r)
+    inputgate = torch.nn.sigmoid(i_i + h_i)
+    newgate = torch.nn.tanh(i_n + resetgate * h_n)
     hy = newgate + inputgate * (hidden - newgate)
 
     return hy
@@ -93,19 +90,19 @@ def VarFastGRUCell(input, hidden, w_ih, w_hh, b_ih=None, b_hh=None, noise_in=Non
 
     hx = hidden if noise_hidden is None else hidden * noise_hidden
     if input.is_cuda:
-        gi = F.linear(input, w_ih)
-        gh = F.linear(hx, w_hh)
+        gi = torch.nn.linear(input, w_ih)
+        gh = torch.nn.linear(hx, w_hh)
         state = fusedBackend.GRUFused.apply
         return state(gi, gh, hidden) if b_ih is None else state(gi, gh, hidden, b_ih, b_hh)
 
-    gi = F.linear(input, w_ih, b_ih)
-    gh = F.linear(hx, w_hh, b_hh)
+    gi = torch.nn.linear(input, w_ih, b_ih)
+    gh = torch.nn.linear(hx, w_hh, b_hh)
     i_r, i_i, i_n = gi.chunk(3, 1)
     h_r, h_i, h_n = gh.chunk(3, 1)
 
-    resetgate = F.sigmoid(i_r + h_r)
-    inputgate = F.sigmoid(i_i + h_i)
-    newgate = F.tanh(i_n + resetgate * h_n)
+    resetgate = torch.nn.sigmoid(i_r + h_r)
+    inputgate = torch.nn.sigmoid(i_i + h_i)
+    newgate = torch.nn.tanh(i_n + resetgate * h_n)
     hy = newgate + inputgate * (hidden - newgate)
 
     return hy

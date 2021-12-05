@@ -26,7 +26,7 @@ from models.config import Config
 from models.architecture import MainArchitecture
 
 UNK_ID=0
-main_path='/home/ffajri/'
+main_path=''
 
 def set_label_action(dictionary, instances):
     for i in range(len(instances)):

@@ -1,0 +1,839 @@
+0	0	سو	سو	NOUN	nsubj	25	 O	( (S (VP (NP (NP (NP (NP (N_EZ سو)	1
+0	1	استفاده	استفاده	NOUN	nmod:poss	0	 O	(NP (N_EZ استفاده)	1
+0	2	سیاسی	سیاسی	ADJ	amod	1	 O	(ADJ سیاسی)))	1
+0	3	از	از	ADP	case	4	 O	(PP (PREP از)	1
+0	4	رویدادی	رویدادی	NOUN	nmod	25	 O	(N رویدادی)))	1
+0	5	که	که	SCONJ	mark	11	 O	(CL (CONJ که)	2
+0	6	همه	همه	PRON	det	7	 O	(VPS (DP (DET_EZ همه)	2
+0	7	ایرانیان	ایرانی	NOUN	nsubj	11	 B-org	(N ایرانیان))	2
+0	8	در	در	ADP	case	9	 O	(VP (PP (PREP در)	2
+0	9	غم	غم	NOUN	nmod	11	 O	(NP (N_EZ غم)	2
+0	10	آن	آن	PRON	nmod:poss	9	 O	(PRON (DEM آن))))	2
+0	11	شریک	شریک	NOUN	acl:relcl	4	 O	(VP (ADJP_C (ADJ شریک)	2
+0	12	و	و	CCONJ	cc	13	 O	(ADJ_C (CONJ و)	2
+0	13	سهیم	سهیم	ADJ	conj	11	 O	(ADJ سهیم)))	2
+0	14	هستند	هست	AUX	cop	11	 O	(V هستند))))))	2
+0	15	،	،	PUNCT	punct	25	 O	(PUNC ،))	2
+0	16	از	از	ADP	case	17	 O	(VP (PP (PP (MPREP (PREP از)	3
+0	17	سوی	سوی	NOUN	nmod	25	 O	(N_EZ سوی))	3
+0	18	هر	هر	DET	det	19	 O	(DP (DP (DET هر)	3
+0	19	جریان	جریان	NOUN	nmod:poss	17	 O	(NP_C (N جریان)	3
+0	20	یا	یا	CCONJ	cc	21	 O	(N_C (CONJ یا)	3
+0	21	نهادی	نهادی	NOUN	conj	19	 O	(N_YA نهادی))))	3
+0	22	که	که	SCONJ	mark	23	 O	(CL (CONJ که)	4
+0	23	باشد	باش	AUX	acl:relcl	21	 O	(VPSD (V باشد)))))	4
+0	24	،	،	PUNCT	punct	25	 O	(PUNC ،))	4
+0	25	مصداق	مصداق	NOUN	root	-1	 O	(VPS (NP (N_EZ مصداق)	5
+0	26	فرصت	فرصت	NOUN	nmod:poss	25	 O	(NP (N_EZ فرصت)	5
+0	27	طلبی	طلبی	NOUN	nmod:poss	26	 O	(ADJ طلبی)))	5
+0	28	غیر	غیر	ADV	advmod	29	 O	(VP (NP (N_EZ غیر)	5
+0	29	اخلاقی	اخلاقی	ADJ	amod	27	 O	(ADJ اخلاقی))	5
+0	30	است	است	AUX	cop	25	 O	(V است)))))	5
+0	31	.	.	PUNCT	punct	25	 0	(PUNC .)) )	5
+1	32	معمولا	معمولاً	ADV	advmod	32	 O	( (S (VP (ADV معمولا)	6
+1	33	پس	پس	ADV	advmod	32	 O	(VP (PP (PP (MPREP (PREP پس)	6
+1	34	از	از	ADP	case	3	 O	(PREP از))	6
+1	35	سوانح	سوان	NOUN	nmod	1	 O	(NP (N_EZ سوانح)	6
+1	36	مختلف 	مختلف 	ADJ	amod	3	 O	_	6
+1	37	،	،	PUNCT	punct	32	 O	(ADJ مختلف))) (PUNC ،))	6
+1	38	عده‌ای	عده	NOUN	nsubj	32	 O	(VPS (N_YA عده‌ای)	6
+1	39	بی	بی	NOUN	flat	6	 O	(VP (PP (PP (PREP بی)	6
+1	40	توجه	توجه	NOUN	appos	6	 O	(NP (N توجه)	6
+1	41	به	به	ADP	case	10	 O	(PP (PREP به)	6
+1	42	سلسله	سلسله	NOUN	nmod	8	 O	(NP_C (NP (N_EZ سلسله)	6
+1	43	علل	علت	NOUN	nmod:poss	10	 O	(N علل))	6
+1	44	و	و	CCONJ	cc	13	 O	(NP_C (CONJ و)	6
+1	45	عوامل	عامل	NOUN	conj	11	 O	(NP (N_EZ عوامل)	6
+1	46	این	این	DET	det	15	 O	(DP (DP (DEM این)	6
+1	47	اتفاقات	اتفاق	NOUN	nmod:poss	13	 O	(N اتفاقات))	6
+1	48	که	که	SCONJ	mark	21	 O	(CL (CONJ که)	7
+1	49	ریشه	ریشه	NOUN	obj	21	 O	(VPS (N ریشه)	7
+1	50	در	در	ADP	case	19	 O	(VP (PP (PREP در)	7
+1	51	مسایل	مسئله	NOUN	nmod	17	 O	(NP (N_EZ مسایل)	7
+1	52	مختلفی	مختلفی	ADJ	amod	19	 O	(ADJ_YA مختلفی)))	7
+1	53	دارد	دار	VERB	acl:relcl	15	 O	(V دارد)))))))))))	7
+1	54	،	،	PUNCT	punct	32	 O	(PUNC ،))	7
+1	55	به	به	ADP	case	24	 O	(VP (PP (PREP به)	8
+1	56	حمله	حمله	NOUN	obl	32	 O	(NP (N حمله)	8
+1	57	به	به	ADP	case	29	 O	(PP (PREP به)	8
+1	58	یک	یک	NUM	nummod	29	 O	(NP (NP_C (NUM یک)	8
+1	59	یا	یا	CCONJ	cc	28	 O	(N_C (CONJ یا)	8
+1	60	چند	چند	ADJ	conj	26	 O	(DET چند)))	8
+1	61	مسیول	مسیول	NOUN	nmod	24	 O	(NP_C (N مسیول)	8
+1	62	و	و	CCONJ	cc	31	 O	(N_C (CONJ و)	8
+1	63	دولت	دولت	NOUN	conj	29	 O	(N دولت)))))))	8
+1	64	می‌پردازند	پرداز	VERB	root	-1	 O	(V می‌پردازند))))))	8
+1	65	.	.	PUNCT	punct	32	 0	(PUNC .)) )	8
+2	66	می‌دانیم	دان	VERB	root	-1	 O	( (S (VP (VP (V می‌دانیم)	9
+2	67	صنعت	صنعت	NOUN	nsubj	9	 O	(CLCD (VPS (NP (N_EZ صنعت)	9
+2	68	حمل	حمل	NOUN	nmod:poss	1	 O	(NP (NP_C (N حمل)	9
+2	69	و	و	CCONJ	cc	4	 O	(N_C (CONJ و)	9
+2	70	نقل	نقل	NOUN	conj	2	 O	(N_EZ نقل)))	9
+2	71	هوایی	هوایی	ADJ	amod	4	 O	(ADJ هوایی)))	9
+2	72	از	از	ADP	case	8	 O	(VP (PP (PREP از)	9
+2	73	این	این	DET	det	8	 O	(DP (DEM این)	9
+2	74	مزیت	مزیت	NOUN	nmod	9	 O	(N مزیت)))	9
+2	75	برخوردار	برخوردار	ADJ	ccomp	0	 O	(VP (ADJ برخوردار)	9
+2	76	است	است	AUX	cop	9	 O	(V است))))))	9
+2	77	که	که	SCONJ	mark	20	 O	(CL (CONJ که)	10
+2	78	نقاط	نقطه	NOUN	nsubj	15	 O	(VP_C (VPS (NP (N_EZ نقاط)	10
+2	79	کمتر	کم	ADJ	xcomp	15	 O	(AJ کمتر))	10
+2	80	توسعه	توسعه	NOUN	compound:lvc	15	 O	(VP (MV (N توسعه)	10
+2	81	یافته	یاب	VERB	ccomp	9	 O	(PPARV یافته))	10
+2	82	کشور	کشور	NOUN	obj	20	 O	(CLCD (VPSD (VP (NP (N کشور)	10
+2	83	را	را	PART	case	16	 O	(POSTP را))	10
+2	84	به	به	ADP	case	19	 O	(VP (PP (PREP به)	10
+2	85	توسعه	توسعه	NOUN	obl	20	 O	(N توسعه))	10
+2	86	برساند	رسان	VERB	ccomp	9	 O	(V برساند)))))))	10
+2	87	اما	اما	CCONJ	cc	28	 O	(VPS_C (CONJ اما)	11
+2	88	یکی	یک	NUM	nsubj	28	 O	(VPS (DP (DP (DET_YA (NUM_YA یکی))	11
+2	89	از	از	ADP	case	24	 O	(PP (PREP از)	11
+2	90	مشکلات	مشکل	NOUN	nmod	22	 O	(NP (NP (N_EZ مشکلات)	11
+2	91	اساسی	اساسی	ADJ	amod	24	 O	(ADJ_EZ اساسی))	11
+2	92	آن	آن	PRON	nmod:poss	24	 O	(PRON (DEM آن)))))	11
+2	93	،	،	PUNCT	punct	28	 O	(PUNC ،))	11
+2	94	فرسودگی	فرسودگی	NOUN	conj	20	 O	(VP (NP (N_EZ فرسودگی)	11
+2	95	ناوگان	ناوه	NOUN	nmod:poss	28	 O	(ADJ ناوگان))	11
+2	96	است	است	AUX	cop	28	 O	(V است)))))))	11
+2	97	.	.	PUNCT	punct	28	 0	(PUNC .)) )	11
+2	98	موضوعی	موضوع	NOUN	conj	28	 O	( (S (NP (N_YA موضوعی)	12
+2	99	که	که	SCONJ	mark	41	 O	(CL (CONJ که)	12
+2	100	هراس	هراس	NOUN	obj	41	 O	(VPSD (VP_C (VP (NP (NP (MN (N هراس)	12
+2	101	مسافران	مسافر	NOUN	nmod:poss	34	 O	(N مسافران))	12
+2	102	از	از	ADP	case	37	 O	(PP (PREP از)	12
+2	103	سفرهای	سفر	NOUN	nmod	35	 O	(NP (N_EZ سفرهای)	12
+2	104	هوایی	هوایی	ADJ	amod	37	 O	(ADJ هوایی))))	12
+2	105	را	را	PART	case	34	 O	(POSTP را))	12
+2	106	افزایش	افزایش	NOUN	compound:lvc	41	 O	(MV (N افزایش)	12
+2	107	داده	ده	VERB	acl:relcl	32	 O	(PPARV داده)))	12
+2	108	و	و	CCONJ	cc	43	 O	(VP_C (CONJ و)	13
+2	109	باعث	باعث	NOUN	conj	41	 O	(VP (ADJP (ADJ_EZ باعث)	13
+2	110	بالارفتن	بالارفتن	NOUN	nmod:poss	43	 O	(NP_C (NP (N_EZ بالارفتن)	13
+2	111	مصرف	مصرف	NOUN	nmod:poss	44	 O	(NP (N_EZ مصرف)	13
+2	112	قطعات	قطعه	NOUN	nmod:poss	45	 O	(NP (N_EZ قطعات)	13
+2	113	یدکی	یدک	ADJ	amod	46	 O	(ADJ یدکی))))	13
+2	114	و	و	CCONJ	cc	51	 O	(NP_C (CONJ و)	13
+2	115	گاهی	گاه	ADV	advmod	51	 O	(NP (ADVP (ADV گاهی)	13
+2	116	نیز	نیز	SCONJ	advmod	51	 O	(CONJ نیز))	13
+2	117	زمین	زمین	NOUN	conj	43	 O	(NP (NP (N_EZ زمین)	13
+2	118	گیر	گیر	ADJ	compound:lvc	53	 O	(MN (N گیر)	13
+2	119	شدن	شدن	NOUN	nmod:poss	51	 O	(INFV_EZ شدن)))	13
+2	120	هواپیماها	هواپیما	NOUN	nmod:poss	53	 O	(N هواپیماها))))))	13
+2	121	شده	کن	AUX	cop	43	 O	(V (PPARV شده)	13
+2	122	است	است	VERB	aux	55	 O	(V است))))))))	13
+2	123	.	.	PUNCT	punct	58	 0	(PUNC .)) )	13
+2	124	نوسازی	نوسازی	NOUN	nsubj	64	 O	( (S (VPS (NP (N_EZ نوسازی)	14
+2	125	ناوگان	ناوه	NOUN	nmod:poss	58	 O	(NP_C (N ناوگان)	14
+2	126	و	و	CCONJ	cc	61	 O	(NP_C (CONJ و)	14
+2	127	تجهیزات	تجهیزات	NOUN	conj	59	 O	(NP (N_EZ تجهیزات)	14
+2	128	ناوبری	ناوبری	ADJ	amod	61	 O	(ADJ ناوبری)))))	14
+2	129	چالشی	چالشی	NOUN	advmod	64	 O	(VP (NP (N_YA چالشی)	14
+2	130	جدی	جدی	ADJ	conj	28	 O	(ADJ جدی))	14
+2	131	است	است	AUX	cop	64	 O	(V است)))	14
+2	132	.	.	PUNCT	punct	0	 0	(PUNC .)) )	14
+3	133	این	این	DET	det	1	 O	( (S (VPS (DP (DEM این)	15
+3	134	تجهیزات	تجهیزات	NOUN	nsubj	3	 O	(N تجهیزات))	15
+3	135	عمدتا	عمدتا	ADV	advmod	3	 O	(VP (ADV عمدتا)	15
+3	136	متعلق	متعلق	ADJ	root	-1	 O	(VP (ADJP (ADJ متعلق)	15
+3	137	به	به	ADP	case	6	 O	(PP (PREP به)	15
+3	138	دو	دو	NUM	nummod	6	 O	(NP (NP (NUM دو)	15
+3	139	نسل	نسل	NOUN	nmod	3	 O	(N_EZ نسل))	15
+3	140	قبل	قبل	ADJ	amod	6	 O	(ADV قبل))))	15
+3	141	است	است	AUX	cop	3	 O	(V است))))	15
+3	142	.	.	PUNCT	punct	18	 0	(PUNC .)) )	15
+3	143	به	به	ADP	case	11	 O	( (S (VP (PP (PP (PREP به)	16
+3	144	تبع	تبع	NOUN	nmod	18	 O	(NP (N_EZ تبع)	16
+3	145	این	این	DET	det	13	 O	(DP (DEM این)	16
+3	146	شرایط	شرایط	NOUN	nmod:poss	11	 O	(N شرایط))))	16
+3	147	،	،	PUNCT	punct	18	 O	(PUNC ،))	16
+3	148	تعداد	تعداد	NOUN	nsubj	18	 O	(VP_C (VPS (NP (N_EZ تعداد)	16
+3	149	مسافران	مسافر	NOUN	nmod:poss	15	 O	(NP (N_EZ مسافران)	16
+3	150	جابه	جابه	ADJ	amod	16	 O	(MADJ (N_EZ جابه)	16
+3	151	جا	جا	NOUN	conj	3	 O	(N جا)	16
+3	152	شده	کن	AUX	cop	18	 O	(PPARV شده))))	16
+3	153	در	در	ADP	case	21	 O	(VP (PP (PREP در)	16
+3	154	سال	سال	NOUN	obl	23	 O	(N سال))	16
+3	155	کاهش	کاهش	NOUN	compound:lvc	23	 O	(MV (N کاهش)	16
+3	156	می‌یابد	یاب	VERB	ccomp	18	 O	(V می‌یابد))))	16
+3	157	و	و	CCONJ	cc	30	 O	(VPS_C (CONJ و)	17
+3	158	بهره	بهره	NOUN	nsubj	30	 O	(VPS (NP (NP (N_EZ بهره)	17
+3	159	وری	وری	NOUN	nmod:poss	25	 O	(ADJ_EZ وری))	17
+3	160	هواپیماها	هواپیما	NOUN	nmod:poss	26	 O	(N هواپیماها))	17
+3	161	به	به	ADP	case	29	 O	(MV (PP (PREP به)	17
+3	162	حداقل	حداقل	ADV	advcl	30	 O	(N حداقل))	17
+3	163	می‌رسد	رس	VERB	conj	23	 O	(V می‌رسد))))))	17
+3	164	.	.	PUNCT	punct	3	 0	(PUNC .)) )	17
+4	165	این	این	PRON	nsubj	21	 O	( (S (VPS (NP (NP (PRON (DEM این))	18
+4	166	که	که	CCONJ	fixed	0	 O	(CL (CONJ که)	18
+4	167	هواپیما	هواپیما	NOUN	nsubj	13	 O	(VPS (N هواپیما)	18
+4	168	در	در	ADP	case	5	 O	(VP (PP (PREP در)	18
+4	169	۲۴	۲۴	NUM	nummod	5	 O	(NP (NUM ۲۴)	18
+4	170	ساعت	ساعت	NOUN	obl	13	 O	(N ساعت)))	18
+4	171	به	به	ADP	case	7	 O	(VP (ADVP (MADV (PREP به)	18
+4	172	طور	طور	NOUN	obl	13	 O	(N_EZ طور))	18
+4	173	متوسط	متوسط	ADJ	amod	7	 O	(ADJ متوسط))	18
+4	174	چند	چند	ADJ	amod	10	 O	(VP (DP (DET چند)	18
+4	175	ساعت	ساعت	NOUN	advmod	13	 O	(N ساعت))	18
+4	176	در	در	ADP	case	12	 O	(VP (PP (PREP در)	18
+4	177	پرواز	پرواز	NOUN	obl	13	 O	(N پرواز))	18
+4	178	است	است	VERB	advcl	21	 O	(V است))))))))	18
+4	179	،	،	PUNCT	punct	21	 O	(PUNC ،))	18
+4	180	در	در	ADP	case	16	 O	(VP (PP (PREP در)	18
+4	181	نرخ	نرخ	NOUN	obl	21	 O	(NP (NP (N_EZ نرخ)	18
+4	182	گذاری	گذاری	NOUN	nmod:poss	16	 O	(N_EZ گذاری))	18
+4	183	آن	آن	PRON	nmod:poss	17	 O	(DP (DEM آن)	18
+4	184	فاکتوری	فاکتوری	NOUN	obj	21	 O	(N فاکتوری))))	18
+4	185	تعیین	تعیین	NOUN	compound:lvc	21	 O	(MV (N تعیین)	18
+4	186	کننده	کن	VERB	root	-1	 O	(V (PPARV کننده)	18
+4	187	است	است	VERB	aux	21	 O	(V است)))))	18
+4	188	.	.	PUNCT	punct	21	 0	(PUNC .)) )	18
+5	189	در	در	ADP	case	2	 O	( (S (VP (PP (PREP در)	19
+5	190	این	این	DET	det	2	 O	(DP (DEM این)	19
+5	191	میان	میان	NOUN	obl	11	 O	(N میان)))	19
+5	192	نباید	باید	AUX	aux	11	 O	(VP (AUX (V نباید))	19
+5	193	از	از	ADP	case	5	 O	(VP (PP (PREP از)	19
+5	194	تاثیرات	تاثیر	NOUN	obl	11	 O	(NP (NP (N_EZ تاثیرات)	19
+5	195	تحریم‌ها	تحریم	NOUN	nmod:poss	5	 O	(N تحریم‌ها))	19
+5	196	در	در	ADP	case	8	 O	(PP (PREP در)	19
+5	197	سال‌های	سال	NOUN	obl	11	 O	(NP (N_EZ سال‌های)	19
+5	198	گذشته	گذشته	ADJ	amod	8	 O	(ADJ گذشته)))))	19
+5	199	عبور	عبور	NOUN	compound:lvc	11	 O	(MV (N عبور)	19
+5	200	کرد	کن	VERB	root	-1	 O	(V کرد)))))	19
+5	201	.	.	PUNCT	punct	11	 0	(PUNC .)) )	19
+5	202	پیش	پیش	ADV	advmod	30	 O	( (S (VP (PP (PP (MPREP (ADV پیش)	20
+5	203	از	از	ADP	case	15	 O	(PREP از))	20
+5	204	فعالیت	فعالیت	NOUN	nmod	13	 O	(NP (N_EZ فعالیت)	20
+5	205	دولت	دولت	NOUN	nmod:poss	15	 O	(NP (N_EZ دولت)	20
+5	206	نهم 	نهم 	ADJ	amod	16	 O	_	20
+5	207	،	،	PUNCT	punct	30	 O	(NUM نهم)))) (PUNC ،))	20
+5	208	تحریم‌ها	تحریم	NOUN	nsubj	30	 O	(VPS (N تحریم‌ها)	20
+5	209	به	به	ADP	case	21	 O	(VP (PP (MPREP (PREP به)	20
+5	210	شکل	شکل	NOUN	nmod	30	 O	(N_EZ شکل))	20
+5	211	یک	یک	NUM	nummod	23	 O	(NP (NUM یک)	20
+5	212	جانبه	جانبه	NOUN	nmod:poss	21	 O	(N جانبه)))	20
+5	213	از	از	ADP	case	25	 O	(VP (PP (MPREP (PREP از)	20
+5	214	سوی	سوی	NOUN	nmod	30	 O	(N_EZ سوی))	20
+5	215	ایالات	ایالت	NOUN	nmod:poss	25	 B-loc	(NP (N_EZ ایالات)	20
+5	216	متحده	متحده	NOUN	nmod:poss	26	 I-loc	(ADJ متحده)))	20
+5	217	علیه	علیه	ADP	case	29	 O	(VP (PP (PREP_EZ علیه)	20
+5	218	ایران	ایران	NOUN	nmod	27	 B-org	(N ایران))	20
+5	219	اعمال	عمل	NOUN	conj	11	 O	(MV (N اعمال)	20
+5	220	می‌شد	کن	AUX	cop	30	 O	(V می‌شد)))))))	20
+5	221	.	.	PUNCT	punct	11	 0	(PUNC .)) )	20
+6	222	در	در	ADP	case	1	 O	( (S (VP (PP (PREP در)	21
+6	223	دولت	دولت	NOUN	obl	8	 O	(NP (N_EZ دولت)	21
+6	224	نهم	نهم	ADJ	amod	1	 O	(NUM نهم)))	21
+6	225	پرونده	پرونده	NOUN	nsubj	8	 O	(VPS (NP (N_EZ پرونده)	21
+6	226	ایران	ایران	NOUN	nmod:poss	3	 B-loc	(N ایران))	21
+6	227	به	به	ADP	case	6	 O	(VP_C (VP (PP (PREP به)	21
+6	228	شورای	شورا	NOUN	obl	8	 B-org	(NP (N_EZ شورای)	21
+6	229	امنیت	امنیت	NOUN	nmod:poss	6	 I-org	(N امنیت)))	21
+6	230	رفت	رو	VERB	root	-1	 O	(V رفت))	21
+6	231	و	و	CCONJ	cc	11	 O	(VP_C (CONJ و)	22
+6	232	تحریم‌ها	تحریم	NOUN	nsubj	11	 O	(VP (NP (N_YA تحریم‌ها)	22
+6	233	فراگیر	فراگیر	ADJ	conj	8	 O	(ADJ فراگیر))	22
+6	234	شد	کن	AUX	cop	11	 O	(V شد))))))	22
+6	235	.	.	PUNCT	punct	14	 0	(PUNC .)) )	22
+6	236	آمریکا 	آمریکا 	NOUN	conj	11	 B-org	_	23
+6	237	،	،	PUNCT	punct	16	 O	( (S (NP_C (N آمریکا) (NP_C (PUNC ،)	23
+6	238	کانادا	کانادا	NOUN	conj	14	 B-org	(NP_C (N کانادا)	23
+6	239	،	،	PUNCT	punct	18	 O	(NP_C (PUNC ،)	23
+6	240	استرالیا	استرالیا	NOUN	conj	16	 B-org	(NP_C (N استرالیا)	23
+6	241	،	،	PUNCT	punct	20	 O	(NP_C (PUNC ،)	23
+6	242	اتحادیه	اتحادیه	NOUN	conj	18	 B-org	(NP_C (NP (N_EZ اتحادیه)	23
+6	243	اروپا	اروپا	NOUN	nmod:poss	20	 I-org	(NP_C (N اروپا)	23
+6	244	،	،	PUNCT	punct	23	 O	(NP_C (PUNC ،)	23
+6	245	کره	کره	NOUN	conj	20	 B-org	(NP_C (N کره)	23
+6	246	،	،	PUNCT	punct	25	 O	(N_C (PUNC ،)	23
+6	247	ژاپن	ژاپن	NOUN	conj	23	 B-org	(N ژاپن))))))	23
+6	248	و	و	CCONJ	cc	23	 O	(CONJ و))))))))	23
+6	249	.	.	PUNCT	punct	8	 0	(PUNC .)) )	23
+7	250	.	.	PUNCT	root	-1	 0	(()) (()) ( (S (VP (PP (MPREP (PREP به) (N_EZ عنوان)) (ADJ بزرگ)) (VP_C (VPS (NP (N_EZ ترین) (NP (N_EZ کشورهای) (ADJ صنعتی))) (VP (ADJP (ADJ ناگزیر) (PP (PREP از) (NP (N تبعیت) (PP (PREP از) (NP (N_EZ تحریم‌های) (ADJ بانکی)))))) (V بودند))) (VPS_C (CONJ و) (VPS (DP (DEM این) (N مسیله)) (VP (NP (NP (N_EZ خرید) (NP (N_EZ هواپیمای) (ADJ نو))) (POSTP را)) (VP (PP (PREP با) (N مانع)) (MV (ADJ مواجه) (V کرد)))))))) (PUNC .)) )	23
+8	251	.	.	PUNCT	punct	7	 0	( (S (VP_C (VP (ADV امروز) (VPS (NP (N استفاده) (PP (PREP از) (NP (N_EZ هواپیماهای) (PP (PREP با) (N عمر))))) (VP (DP (DET (ADJ بیش)) (PP (PREP از) (NP (NP (NUM ۱۵) (N سال)) (PP (PREP_EZ فاقد) (NP (N_EZ توجیه) (ADJ اقتصادی)))))) (V است)))) (VPSD_C (CONJ و) (VPSD (VP (PP (MPREP (PREP پس) (PREP از)) (DP (DEM این) (N مدت))) (VP (AUX (V باید)) (VP (NP (PRON (DEM آن)) (POSTP را)) (V فروخت))))))) (PUNC .)) )	23
+8	252	به	به	ADP	case	2	 O	( (S (VP (RES بله) (VP (AUX (V می‌توان)) (VP_C (VP (NP (NP (NUM نیم) (N قرن)) (CONJ هم)) (VP (PP (PREP از) (NP (NUM یک) (N هواپیما))) (MV (N استفاده) (V کرد)))) (VP_C (CONJ اما) (VP (ADJP (ADJ مقرون) (PP (PREP به)	23
+8	253	عنوان	عنوان	NOUN	nmod	7	 O	(N صرفه))) (VP (AUX (V نخواهد)) (V بود))))))) (PUNC .)) ) ( (S (VP (PP (PP (MPREP (ADV پیش) (PREP از)) (NP (NP (N_EZ ارجاع) (NP (N_EZ پرونده) (N ایران))) (PP (PREP به) (NP (N_EZ شورای) (N امنیت))))) (PUNC ،)) (VPS (NP (NP (N_YA محصولاتی) (CL (CONJ که) (VPS (DP (DET (ADJ بیش)) (PP (PREP از) (NP (NP (NUM ۱۰) (N درصد)) (PRON (DEM آن))))) (VP (PP (MPREP (PREP به) (N_EZ وسیله)) (N آمریکا)) (MV (MV (PPARV ساخته) (PPARV شده)) (V بود)))))) (PUNC ،)) (VP (ADJ ممنوع) (V بود)))) (PUNC .)) ) ( (S (VP (VP (VP (VPSD (VP (ADJ فراموش) (V نکنیم))) (CLCD (VP_C (VPS (NP (N_EZ دست) (ADJ_EZ کم)) (VP (NP (ADJP (NUM ۳۴) (CLASS درصد)) (N سرمایه)) (V گذاری))) (VPS_C (CONJ و) (VPS (NP (NP (N_EZ سهام) (NP (NP (N_EZ شرکت‌های) (ADJ_EZ تولیدکننده)) (NP (N_EZ موتور) (N هواپیما)))) (PP (PREP در) (N دنیا))) (VP (ADJP (ADJ متعلق) (PP (PREP به) (N آمریکاست))))))))) (PUNC ؛)) (CL (CONJ بنابراین) (VPSD (VP (DP (DP (DET هیچ) (N_YA موتوری)) (POSTP را)) (VP (PP (PREP در) (N دنیا)) (VP (ADV نمی‌توانستیم) (MV (N خریداری) (V کنیم)))))))) (PUNC .)) ) ( (S (VPS (NP (N_YA راهکارهایی) (ADVP (ADV_EZ مانند) (NP_C (NP (NP (N_EZ خرید) (NP (N_EZ هواپیمای) (NP (N_EZ دست) (NUM دوم)))) (PP (PREP با) (NP (N_EZ سن) (ADJ کم)))) (N_C (CONJ یا) (N اجاره))))) (VP (PP (MPREP (PREP به) (N_EZ شرط)) (NP (N تملیک) (PP (PREP در) (NP (N_EZ دستور) (N کار))))) (V بود))) (PUNC .)) ) ( (S (VP (VPS (NP (NP (N_YA مشکلی) (CL (CONJ که) (VPSD (VP (PP (MPREP (PREP پس) (PREP از)) (NP (N_EZ قطع) (NP (NP (N_EZ نامه‌های) (ADJ_EZ تحریمی)) (NP (N_EZ شورای) (N امنیت))))) (MV (ADJ پدید) (V آمد)))))) (PUNC ،)) (VP (PRON (DEM این)) (V بود))) (CL (CONJ که) (VPS (N کشورها) (VP (ADVP (ADVP (MADV (N علاوه) (PREP بر)) (NP (N اجتناب) (PP (PREP از) (NP (N_EZ فروش) (N هواپیما))))) (PUNC ،)) (VP (PP (PP (PREP از) (NP (N_EZ ارایه) (N قطعات))) (CONJ نیز)) (MV (N پرهیز) (V می‌کردند))))))) (PUNC .)) ) ( (S (VP_C (VPS (N قطعات) (VP (PP (PREP با) (DP (DP (DET چند) (N برابر)) (NP (N_EZ قیمت) (ADJ واقعی)))) (MV (N تامین) (V می‌شد)))) (VPS_C (CONJ و) (VPS (NP (NP (N_EZ موتور) (N هواپیما)) (CONJ نیز)) (VP (PP (PREP_EZ برای) (N تعمیر)) (VP (PP (PREP به) (NP (N_EZ کشور) (ADJ سازنده))) (MV (N انتقال) (MV (ADJ پیدا) (V نمی‌کرد)))))))) (PUNC .)) ) ( (S (VP_C (VPS (DP (DET برخی) (NP (N_EZ کشور‌های) (N مقصد))) (VP (PP (PREP به) (NP (NP (N_EZ هواپیماهای) (ADJ_EZ ایرانی)) (N سوخت))) (V نمی‌دادند))) (VPS_C (CONJ و) (VPS (NP (NP (NP_C (N نشست) (N_C (CONJ و) (N_EZ برخاست‌های))) (NP (N_EZ غیر) (ADJ ضروری))) (PUNC ،)) (VP (NP (NUM ۲۰) (PP (PREP تا) (NP (NUM ۲۵) (N درصد)))) (VP (PP (PREP به) (NP (N_EZ هزینه) (N ایرلاین‌ها))) (V می‌افزود)))))) (PUNC .)) ) ( (S (VP (VP (PP (MPREP (ADV پیش) (PREP از)) (PRON (DEM آن))) (VP (PP (PP (MPREP (PREP در) (N_EZ جریان)) (NP (NP (NP (N_EZ سفر) (NP (N_EZ رییس) (NP (N_EZ جمهوری) (NP (N_EZ دوران) (N اصلاحات))))) (PP (PREP به) (N فرانسه))) (PP (PREP از) (NP (NP (NP (N_EZ رییس) (N_EZ جمهور)) (N_EZ وقت)) (DP (DEM آن) (N کشور)))))) (PUNC ،)) (VPS (NP (N_EZ قول) (NP (N_EZ خرید) (NP (NP (NUM چهار) (CLASS فروند)) (NUM ایرباس۳۳۰)))) (MV (PPARV گرفته) (V شد))))) (CL (CONJ که) (VP_C (VPS (NP (N_EZ برد) (ADJP_C (ADJ بلند) (ADJ_C (CONJ و) (ADJ مناسب)))) (VP (NP (N_EZ پروازهای) (ADJ طولانی)) (V دارد))) (VPS_C (CONJ اما) (VPS (N آمریکا) (VP (PP (PP (PREP با) (NP (N استفاده) (PP (PREP از) (DP (DEM همان) (NP (N_EZ قانون) (N داماتو)))))) (PUNC ،)) (MV (NP (N_EZ مانع) (NP (NP (N_EZ فروش) (DP (DEM این) (N هواپیماها))) (PP (PREP به) (N ایران)))) (V شد)))))))) (PUNC .)) ) ( (S (VP (VP (PP (MPREP (ADV پیش) (PREP از)) (NP (N_EZ تحریم‌های) (MN (N_EZ سازمان) (N ملل)))) (VPS (DP (DEM این) (N امکان)) (MV (N وجود) (V داشت)))) (CL (CONJ که) (VPSD (VP (PP (MPREP (PREP از) (N_EZ طریق)) (N (PUNC «) (N لیزینگ) (PUNC »))) (VP (NP (NP (N_EZ هواپیماهای) (NP (N_EZ مورد) (N نیاز))) (POSTP را)) (MV (PP (PREP_EZ وارد) (N کشور)) (V کنیم))))))) (PUNC .)) ) ( (S (VP (PP (PP (MPREP (PREP با) (N_EZ روی)) (NP (NP (N_EZ کارآمدن) (NP_C (NP (N_EZ دولت) (NUM یازدهم)) (NP_C (CONJ و) (NP (N_EZ توافق) (ADJ برجام))))) (CL (CONJ که) (VPSD (VP (NP (NP (N_EZ بند) (ADJ مشخص)) (PP (PREP_EZ برای) (NP (N_EZ خرید) (NP (N_EZ هواپیماهای) (ADJ نو))))) (V داشت)))))) (PUNC ،)) (VP (VPS (DEM این) (VP (N امیدواری) (MV (N ایجاد) (V شد)))) (CL (CONJ که) (VPS (NP (NP (N_EZ نیاز) (N کشور)) (ADVP (ADV (CONJ یعنی)) (DP (DET_EZ حدود) (NP (ADJP (NUM ۲۵۰) (CLASS فروند)) (NP (N_EZ هواپیمای) (ADJ جدید)))))) (VP (PP (PREP در) (NP (N_EZ مسیرهای) (ADJP_C (ADJ کوتاه) (ADJP_C (PUNC ،) (ADJP_C (ADJ متوسط) (ADJ_C (CONJ و) (ADJ طولانی))))))) (VP (PP (PREP به) (N کشور)) (MV (N وارد) (V شود)))))))) (PUNC .)) ) ( (S (VP (ADVP (MADV (PREP به) (N_EZ طور)) (ADJ طبیعی)) (VPS (NP (N_EZ ایرلاین‌های) (ADJ داخلی)) (VP (PP (PP (MPREP (PREP به) (N_EZ دلیل)) (NP (N_EZ نبود) (NP (N_EZ توجیه) (ADJ اقتصادی)))) (PUNC ،)) (VP (N سراغ) (VP (NP (N_EZ خرید) (NP (N_EZ هواپیماهای) (ADJP_C (ADJ کهنه) (ADJ_C (CONJ و) (ADJ ارزان))))) (V می‌روند)))))) (PUNC .)) ) ( (S (VP (CL (CL_C (CL (MCONJ (Q چرا) (CONJ که)) (VP (CL (CL (CONJ اگر) (VPS (NP (N_EZ قیمت) (N بلیت)) (MV (N افزایش) (MV (ADJ پیدا) (V کند))))) (PUNC ،)) (VPSD (VP (PP (PREP_EZ برای) (N_YA مدتی)) (VP (PP (PREP به) (NP (N_EZ شدت) (N مسافر))) (MV (N کاهش) (V می‌یابد))))))) (CL_C (CONJ و) (CL (CONJ اگر) (VP_C (VPS (NP (NP (N_EZ درصد) (N_EZ اشغال)) (N صندلی)) (VP (PP (PREP از) (NP (NUM ۷۰) (N درصد))) (VP (ADJ پایین) (V بیاید)))) (VPS_C (CONJ و) (VPS (NP (N_EZ میزان) (NP (N_EZ ساعات) (NP (N پرواز) (PP (PREP در) (NP (ADV شبانه) (N روز)))))) (MV (MV (N کاهش) (PPARV داشته)) (V باشد)))))))) (PUNC ،)) (VPSD (VP (ADV دیگر) (VP (PP (PREP_EZ برای) (PRON (DEM آن‌ها))) (VP (NP (N_EZ توجیه) (ADJ اقتصادی)) (V ندارد)))))) (PUNC .)) ) ( (S (CL (MCONJ (PREP از) (N_EZ سوی) (PRON دیگر)) (VP_C (VPS (NP (NP (MN (ADJ سنگین) (INFV_EZ بودن)) (NP (N_EZ اقساط) (N هواپیما))) (CONJ نیز)) (VP (AUX (V می‌تواند)) (VP (PP (PREP در) (NP (NP (N_EZ سودآوری) (ADJ_EZ کوتاه)) (NP (NP (N_EZ مدت) (ADJ_EZ ایرلاین‌ها)) (N اختلال)))) (MV (N ایجاد) (V کند))))) (VP_C (CONJ و) (VP (PP (PREP به) (DP (DEM همین) (N دلیل))) (VPS (NP_C (NP (NP (N_EZ اشکال) (ADJ_EZ مختلف)) (NP (N_EZ تامین) (ADJ مالی))) (NP_C (PUNC ،) (NP (N_EZ مد) (NP (N_EZ نظر) (PRON آنان))))) (MV (N قرار) (V (PPARV گرفته) (V است)))))))) (PUNC .)) ) ( (S (VP (VPSD (VP (ADV واقعا) (VP (ADJP (ADJ_EZ شایسته) (NP (N_EZ ملت) (N ایران))) (V نیست)))) (CLCD (VP_C (VPS (NP (NP (N_EZ هواپیمایی) (ADV_EZ مانند)) (MN (PUNC «) (MN (N ام) (N دی)) (PUNC »))) (MV (N سوار) (V شوند))) (VPS_C (CONJ و) (VPS (NP (N_EZ مسیولان) (ADJ دولتی)) (VP (AUX (V باید)) (VP (PP (PREP_EZ برای) (NP (MN (PP (PREP از) (N رده)) (MN (N خارج) (INFV_EZ کردن))) (DP (DET_EZ تمامی) (DP (DEM این) (NP (N_EZ هواپیماهای) (ADJ فرسوده)))))) (MV (N اقدام) (V کنند))))))))) (PUNC .)) ) ( (S (VP_C (VPS (NP (NP (N_EZ صنعت) (N_EZ هوانوردی)) (N ایران)) (VP (PP (PREP در) (NP (NP (N_EZ رده‌های) (NUM_EZ آخر)) (NP (N_EZ کشورهای) (N جهان)))) (MV (N قرار) (V دارد)))) (VP_C (CONJ و) (VP (VPS (NP (NP (N_EZ تجهیزات) (N_YA فرودگاهی)) (CONJ نیز)) (VP (ADJP (ADJ_EZ دچار) (NP (NP (N_EZ نواقص) (ADJP_C (ADJ جدی) (ADJP_C (CONJ و) (ADJP (ADV بعضا) (ADJ متعلق))))) (NP (NP (NUM به۲۰) (PP (PREP تا) (NUM ۲۵))) (NP (N_EZ سال) (ADV قبل))))) (V است))) (CL (CONJ که) (VP (VPSD (VP (NP (N نیاز) (PP (PREP به) (PP (PREP به) (NP (N_EZ روزسانی) (ADJ فوری))))) (V دارند))) (CL (CONJ تا) (VPS (MN (N ایمنی) (N پروازها)) (VP_C (MV (N حفظ)) (VP_C (CONJ و) (VP (PP (PREP از) (NP (N_YA سوانحی) (ADVP (ADV_EZ مانند) (NP (N_EZ سانحه) (ADJ اخیر))))) (MV (N جلوگیری) (V شود)))))))))))) (PUNC .)) ) ( (S (VP_C (VP (VPSD (VP (ADJ بهتر) (V است))) (CLCD (VPSD (VP (PP (PP (MPREP (PREP به) (N_EZ جای)) (NP_C (NP (MN (ADJ مقصر) (INFV_EZ دانستن)) (DP (DEM این) (N دولت))) (NP_C (CONJ یا) (NP_C (DP (DEM آن) (N وزارتخانه)) (NP_C (CONJ و) (NP (N_EZ دستگاه) (PRON دیگر))))))) (PUNC ،)) (VP (PP (PP (PREP_EZ برای) (NP (NP (N استفاده) (PP (PREP از) (NP (N_EZ مواهب) (N برجام)))) (PP (MPREP (PREP در) (N_EZ زمینه)) (NP (N_EZ خرید) (N هواپیما))))) (PUNC ،)) (VPS (NP (N_YA نوعی) (NP (N همراهی) (PP (PREP_EZ میان) (DP (DET_EZ همه) (NP_C (N نیروها) (N_C (CONJ و) (N_EZ ارکان))))))) (VP (PP (PREP در) (N کشور)) (MV (N ایجاد) (PPARV شده))))))))) (VPSD_C (CONJ و) (VPSD (VP (AUX (V باید)) (VP (PP (PREP به) (PRON (DEM آن))) (VP (PP (MPREP (PREP به) (N_EZ عنوان))	23
+8	254	بزرگ	بزرگ	ADJ	amod	2	 O	_	23
+8	255	ترین	ترین	ADJ	amod	2	 O	_	23
+8	256	کشورهای	کشور	NOUN	flat	2	 O	_	23
+8	257	صنعتی	صنعتی	ADJ	amod	5	 O	_	23
+8	258	ناگزیر	ناگزیر	ADV	root	-1	 O	_	23
+8	259	از	از	ADP	case	9	 O	(NP (NP (NUM یک) (NP (N_EZ پروژه) (ADJ ملی))) (PP (PREP_EZ برای) (NP_C (NP (NP_C (N رفاه) (NP_C (CONJ و) (NP (N_EZ تامین) (NP (N_EZ امنیت) (ADJ جانی))))) (N مردم)) (NP_C (CONJ و) (NP_C (ADV نه) (NP (N رقابت) (PP (PREP با) (N دولت))))))))) (MV (PPARV نگریسته) (V شود)))))))) (PUNC .)) ) ( (S (CL (CONJ همچنین) (VP (VPSD (VP (ADJ لازم)	23
+8	260	تبعیت	تبعیت	NOUN	nmod	7	 O	_	23
+8	261	از	از	ADP	case	11	 O	(V است))) (CLC (CONJ که) (VP (PP (PP (PREP با) (NP (NP (N استفاده) (PP (PREP از)	23
+8	262	تحریم‌های	تحریم	NOUN	nmod	9	 O	_	23
+8	263	بانکی	بانکی	ADJ	amod	11	 O	_	23
+8	264	بودند	بود	VERB	cop	7	 O	_	23
+8	265	و	و	CCONJ	cc	24	 O	(NP (N_EZ مدیران) (ADJ متخصص)))) (PP (PREP در) (NP (N_EZ ایرلاین‌های) (ADJ مختلف))))) (PUNC ،)) (VPS (DP (DET (ADJ بیش)) (PP (PREP از) (ADV پیش))) (VP (PP (PREP به) (NP (NP (N_EZ بهره) (ADJ_EZ وری))	24
+8	266	این	این	DET	det	16	 O	_	24
+8	267	مسیله	مسیله	NOUN	nsubj	24	 O	_	24
+8	268	خرید	خرید	NOUN	obj	24	 O	_	24
+8	269	هواپیمای	هواپیما	NOUN	nmod:poss	17	 O	_	24
+8	270	نو	نو	ADJ	amod	18	 O	_	24
+8	271	را	را	PART	case	17	 O	_	24
+8	272	با	با	ADP	case	22	 O	_	24
+8	273	مانع	مانع	NOUN	obl	24	 O	_	24
+8	274	مواجه	مواجه	ADJ	compound:lvc	24	 O	_	24
+8	275	کرد	کن	VERB	conj	7	 O	_	24
+8	276	.	.	PUNCT	punct	7	 0	(NP (N_EZ ظرفیت‌های) (ADJ موجود)))) (MV (N توجه) (V شود)))))))) (PUNC .)) )	24
+9	277	امروز	امروز	ADV	advmod	10	 O	_	25
+9	278	استفاده	استفاده	NOUN	nsubj	10	 O	_	25
+9	279	از	از	ADP	case	3	 O	_	25
+9	280	هواپیماهای	هواپیما	NOUN	nmod	1	 O	_	25
+9	281	با	با	ADP	case	5	 O	_	25
+9	282	عمر	عمر	NOUN	nmod	3	 O	_	25
+9	283	بیش	بیش	ADJ	advmod	8	 O	_	25
+9	284	از	از	ADP	fixed	6	 O	_	25
+9	285	۱۵	۱۵	NUM	nummod	9	 O	_	25
+9	286	سال	سال	NOUN	nmod	10	 O	_	25
+9	287	فاقد	فاقد	ADJ	root	-1	 O	_	25
+9	288	توجیه	توجیه	NOUN	nmod:poss	10	 O	_	25
+9	289	اقتصادی	اقتصادی	ADJ	amod	11	 O	_	25
+9	290	است	است	AUX	cop	10	 O	_	25
+9	291	و	و	CCONJ	cc	22	 O	_	26
+9	292	پس	پس	ADV	advmod	22	 O	_	26
+9	293	از	از	ADP	case	18	 O	_	26
+9	294	این	این	DET	det	18	 O	_	26
+9	295	مدت	مدت	NOUN	nmod	15	 O	_	26
+9	296	باید	باید	AUX	aux	22	 O	_	26
+9	297	آن	آن	PRON	obj	22	 O	_	26
+9	298	را	را	PART	case	20	 O	_	26
+9	299	فروخت	فروخت	VERB	conj	10	 O	_	26
+9	300	.	.	PUNCT	punct	33	 0	_	26
+9	301	بله	بله	INTJ	dep	33	 O	_	27
+9	302	می‌توان	توان	AUX	aux	33	 O	_	27
+9	303	نیم	نیم	NOUN	det	27	 O	_	27
+9	304	قرن	قرن	NOUN	advmod	33	 O	_	27
+9	305	هم	هم	SCONJ	advmod	33	 O	_	27
+9	306	از	از	ADP	case	31	 O	_	27
+9	307	یک	یک	NUM	nummod	31	 O	_	27
+9	308	هواپیما	هواپیما	NOUN	obl	33	 O	_	27
+9	309	استفاده	استفاده	NOUN	compound:lvc	33	 O	_	27
+9	310	کرد	کن	VERB	conj	22	 O	_	27
+9	311	اما	اما	CCONJ	cc	35	 O	_	28
+9	312	مقرون	مقرون	ADJ	conj	33	 O	_	28
+9	313	به	به	ADP	case	37	 O	_	28
+9	314	صرفه	صرفه	NOUN	nmod	35	 O	_	28
+9	315	نخواهد	خواه	AUX	aux	39	 O	_	28
+9	316	بود	باش	AUX	cop	35	 O	_	28
+9	317	.	.	PUNCT	punct	10	 0	_	28
+10	318	پیش	پیش	ADV	advmod	23	 O	_	29
+10	319	از	از	ADP	case	2	 O	_	29
+10	320	ارجاع	ارجاع	NOUN	nmod	0	 O	_	29
+10	321	پرونده	پرونده	NOUN	nmod:poss	2	 O	_	29
+10	322	ایران	ایران	NOUN	nmod:poss	3	 B-loc	_	29
+10	323	به	به	ADP	case	6	 O	_	29
+10	324	شورای	شورا	NOUN	nmod	4	 B-org	_	29
+10	325	امنیت	امنیت	NOUN	nmod:poss	6	 I-org	_	29
+10	326	،	،	PUNCT	punct	23	 O	_	29
+10	327	محصولاتی	محصول	NOUN	nsubj	23	 O	_	29
+10	328	که	که	SCONJ	mark	19	 O	_	30
+10	329	بیش	بیش	ADJ	advmod	13	 O	_	30
+10	330	از	از	ADP	fixed	11	 O	_	30
+10	331	۱۰	۱۰	NUM	nummod	14	 O	_	30
+10	332	درصد	درصد	NOUN	nsubj:pass	19	 O	_	30
+10	333	آن	آن	PRON	nmod:poss	14	 O	_	30
+10	334	به	به	ADP	case	17	 O	_	30
+10	335	وسیله	وسیله	NOUN	obl	19	 O	_	30
+10	336	آمریکا	آمریکا	NOUN	nmod:poss	17	 B-loc	_	30
+10	337	ساخته	ساز	VERB	acl:relcl	9	 O	_	30
+10	338	شده	کن	VERB	aux:pass	19	 O	_	30
+10	339	بود	باش	VERB	aux	20	 O	_	30
+10	340	،	،	PUNCT	punct	23	 O	_	30
+10	341	ممنوع	ممنوع	ADJ	root	-1	 O	_	31
+10	342	بود	باش	AUX	cop	23	 O	_	31
+10	343	.	.	PUNCT	punct	27	 0	_	31
+10	344	فراموش	فراموش	ADJ	compound:lvc	27	 O	_	32
+10	345	نکنیم	کن	VERB	conj	23	 O	_	32
+10	346	دست	دست	NOUN	nsubj	42	 O	_	32
+10	347	کم	کم	ADJ	amod	28	 O	_	32
+10	348	۳۴	۳۴	NUM	nummod	31	 O	_	32
+10	349	درصد	درصد	NOUN	nmod	32	 O	_	32
+10	350	سرمایه	سرمایه	NOUN	nsubj	42	 O	_	32
+10	351	گذاری	گذاری	NOUN	nmod:poss	32	 O	_	32
+10	352	و	و	CCONJ	cc	35	 O	_	32
+10	353	سهام	سهم	NOUN	conj	33	 O	_	32
+10	354	شرکت‌های	شرکت	NOUN	nmod:poss	35	 O	_	32
+10	355	تولیدکننده	تولیدکننده	ADJ	amod	36	 O	_	32
+10	356	موتور	موتور	NOUN	nmod:poss	36	 O	_	32
+10	357	هواپیما	هواپیما	NOUN	nmod:poss	38	 O	_	32
+10	358	در	در	ADP	case	41	 O	_	32
+10	359	دنیا	دنیا	NOUN	nmod	42	 O	_	32
+10	360	متعلق	متعلق	ADJ	ccomp	27	 O	_	32
+10	361	به	به	ADP	case	44	 O	_	32
+10	362	آمریکاست	آمریکاست	NOUN	nmod	42	 O	_	32
+10	363	؛	؛	PUNCT	punct	54	 O	_	32
+10	364	بنابراین	بنابراین	SCONJ	advmod	54	 O	_	33
+10	365	هیچ	هیچ	ADV	det	48	 O	_	33
+10	366	موتوری	موتوری	NOUN	obj	54	 B-pers	_	33
+10	367	را	را	PART	case	48	 O	_	33
+10	368	در	در	ADP	case	51	 O	_	33
+10	369	دنیا	دنیا	NOUN	obl	54	 O	_	33
+10	370	نمی‌توانستیم	نمی‌توانستیم	VERB	aux	54	 O	_	33
+10	371	خریداری	خریداری	NOUN	compound:lvc	54	 O	_	33
+10	372	کنیم	کن	VERB	conj	42	 O	_	33
+10	373	.	.	PUNCT	punct	23	 0	_	33
+11	374	راهکارهایی	راهکار	NOUN	nsubj	17	 O	_	34
+11	375	مانند	مانند	ADV	case	2	 O	_	34
+11	376	خرید	خرید	NOUN	obl	17	 O	_	34
+11	377	هواپیمای	هواپیما	NOUN	nmod:poss	2	 O	_	34
+11	378	دست	دست	NOUN	nsubj	17	 O	_	34
+11	379	دوم	دوم	ADJ	amod	4	 O	_	34
+11	380	با	با	ADP	case	7	 O	_	34
+11	381	سن	سن	NOUN	obl	17	 O	_	34
+11	382	کم	کم	ADJ	amod	7	 O	_	34
+11	383	یا	یا	CCONJ	cc	10	 O	_	34
+11	384	اجاره	اجاره	NOUN	conj	7	 O	_	34
+11	385	به	به	ADP	case	12	 O	_	34
+11	386	شرط	شرط	NOUN	nmod	10	 O	_	34
+11	387	تملیک	تملیک	NOUN	nmod:poss	12	 O	_	34
+11	388	در	در	ADP	case	15	 O	_	34
+11	389	دستور	دستور	NOUN	obl	17	 O	_	34
+11	390	کار	کار	NOUN	nmod:poss	15	 O	_	34
+11	391	بود	باش	VERB	root	-1	 O	_	34
+11	392	.	.	PUNCT	punct	17	 0	_	34
+12	393	مشکلی	مشکل	NOUN	nsubj	12	 O	_	35
+12	394	که	که	SCONJ	mark	10	 O	_	35
+12	395	پس	پس	ADV	advmod	10	 O	_	35
+12	396	از	از	ADP	case	4	 O	_	35
+12	397	قطع	قطع	NOUN	nmod	2	 O	_	35
+12	398	نامه‌های	نامه	NOUN	nmod:poss	4	 O	_	35
+12	399	تحریمی	تحریمی	ADJ	amod	5	 O	_	35
+12	400	شورای	شورا	NOUN	nmod:poss	5	 B-org	_	35
+12	401	امنیت	امنیت	NOUN	nmod:poss	7	 I-org	_	35
+12	402	پدید	پدید	ADJ	compound:lvc	10	 O	_	35
+12	403	آمد	آ	VERB	acl:relcl	0	 O	_	35
+12	404	،	،	PUNCT	punct	12	 O	_	35
+12	405	این	این	PRON	root	-1	 O	_	35
+12	406	بود	باش	AUX	cop	12	 O	_	35
+12	407	که	که	SCONJ	mark	28	 O	_	36
+12	408	کشورها	کشور	NOUN	nsubj	28	 O	_	36
+12	409	علاوه	علاوه	ADP	case	18	 O	_	36
+12	410	بر	بر	ADP	fixed	16	 O	_	36
+12	411	اجتناب	اجتناب	NOUN	obl	28	 O	_	36
+12	412	از	از	ADP	case	20	 O	_	36
+12	413	فروش	فروش	NOUN	nmod	18	 O	_	36
+12	414	هواپیما	هواپیما	NOUN	nmod:poss	20	 O	_	36
+12	415	،	،	PUNCT	punct	28	 O	_	36
+12	416	از	از	ADP	case	24	 O	_	36
+12	417	ارایه	ارایه	NOUN	obl	28	 O	_	36
+12	418	قطعات	قطعه	NOUN	nmod:poss	24	 O	_	36
+12	419	نیز	نیز	SCONJ	advmod	28	 O	_	36
+12	420	پرهیز	پرهیز	NOUN	compound:lvc	28	 O	_	36
+12	421	می‌کردند	کن	VERB	ccomp	12	 O	_	36
+12	422	.	.	PUNCT	punct	12	 0	_	36
+13	423	قطعات	قطعه	NOUN	nsubj	6	 O	_	37
+13	424	با	با	ADP	case	3	 O	_	37
+13	425	چند	چند	ADJ	amod	3	 O	_	37
+13	426	برابر	برابر	NOUN	nmod	6	 O	_	37
+13	427	قیمت	قیمت	NOUN	nmod	6	 O	_	37
+13	428	واقعی	واقعی	ADJ	amod	4	 O	_	37
+13	429	تامین	تامین	NOUN	root	-1	 O	_	37
+13	430	می‌شد	کن	AUX	cop	6	 O	_	37
+13	431	و	و	CCONJ	cc	19	 O	_	38
+13	432	موتور	موتور	NOUN	nsubj	19	 O	_	38
+13	433	هواپیما	هواپیما	NOUN	nmod:poss	9	 O	_	38
+13	434	نیز	نیز	SCONJ	advmod	19	 O	_	38
+13	435	برای	برای	ADP	case	13	 O	_	38
+13	436	تعمیر	تعمیر	NOUN	obl	19	 O	_	38
+13	437	به	به	ADP	case	15	 O	_	38
+13	438	کشور	کشور	NOUN	nmod	13	 O	_	38
+13	439	سازنده	سازنده	ADJ	amod	15	 O	_	38
+13	440	انتقال	انتقال	NOUN	obj	19	 O	_	38
+13	441	پیدا	پیدا	ADJ	compound:lvc	19	 O	_	38
+13	442	نمی‌کرد	نمی‌کرد	VERB	conj	6	 O	_	38
+13	443	.	.	PUNCT	punct	6	 0	_	38
+14	444	برخی	برخی	DET	det	1	 O	_	39
+14	445	کشور‌های	کشور	NOUN	nsubj	7	 O	_	39
+14	446	مقصد	مقصد	NOUN	nmod:poss	1	 O	_	39
+14	447	به	به	ADP	case	4	 O	_	39
+14	448	هواپیماهای	هواپیما	NOUN	nmod	2	 O	_	39
+14	449	ایرانی	ایرانی	ADJ	amod	4	 O	_	39
+14	450	سوخت	سوخت	NOUN	compound:lvc	7	 O	_	39
+14	451	نمی‌دادند	ده	VERB	root	-1	 O	_	39
+14	452	و	و	CCONJ	cc	22	 O	_	40
+14	453	نشست	نشست	NOUN	nsubj	22	 O	_	40
+14	454	و	و	CCONJ	cc	11	 O	_	40
+14	455	برخاست‌های	برخاست	NOUN	conj	9	 O	_	40
+14	456	غیر	غیر	ADV	advmod	13	 O	_	40
+14	457	ضروری	ضروری	ADJ	amod	11	 O	_	40
+14	458	،	،	PUNCT	punct	22	 O	_	40
+14	459	۲۰	۲۰	NUM	nummod	16	 O	_	40
+14	460	تا	تا	ADP	case	18	 O	_	40
+14	461	۲۵	۲۵	NUM	nummod	18	 O	_	40
+14	462	درصد	درصد	NOUN	obl	22	 O	_	40
+14	463	به	به	ADP	case	20	 O	_	40
+14	464	هزینه	هزینه	NOUN	obl	22	 O	_	40
+14	465	ایرلاین‌ها	ایرلاین	NOUN	nmod:poss	20	 O	_	40
+14	466	می‌افزود	افزا	VERB	conj	7	 B-pers	_	40
+14	467	.	.	PUNCT	punct	48	 0	_	40
+14	468	پیش	پیش	ADV	advmod	48	 O	_	41
+14	469	از	از	ADP	case	26	 O	_	41
+14	470	آن	آن	PRON	nmod	24	 O	_	41
+14	471	در	در	ADP	case	28	 O	_	41
+14	472	جریان	جریان	NOUN	obl	48	 O	_	41
+14	473	سفر	سفر	NOUN	nmod:poss	28	 O	_	41
+14	474	رییس	رییس	NOUN	nmod:poss	29	 O	_	41
+14	475	جمهوری	جمهوری	NOUN	nmod:poss	30	 O	_	41
+14	476	دوران	دوره	NOUN	nmod:poss	31	 O	_	41
+14	477	اصلاحات	اصلاح	NOUN	nmod:poss	32	 O	_	41
+14	478	به	به	ADP	case	35	 O	_	41
+14	479	فرانسه	فرانسه	NOUN	nmod	33	 B-loc	_	41
+14	480	از	از	ADP	case	37	 O	_	41
+14	481	رییس	رییس	NOUN	nmod	35	 O	_	41
+14	482	جمهور	جمهور	NOUN	nmod:poss	37	 O	_	41
+14	483	وقت	وقت	NOUN	nmod:poss	38	 O	_	41
+14	484	آن	آن	DET	det	41	 O	_	41
+14	485	کشور	کشور	NOUN	nmod:poss	39	 O	_	41
+14	486	،	،	PUNCT	punct	48	 O	_	41
+14	487	قول	قول	NOUN	nsubj:pass	48	 O	_	41
+14	488	خرید	خرید	NOUN	nmod:poss	43	 O	_	41
+14	489	چهار	چهار	NUM	nummod	46	 O	_	41
+14	490	فروند	فروند	NOUN	nmod:poss	44	 O	_	41
+14	491	ایرباس۳۳۰	ایرباس۳۳۰	NOUN	nmod:poss	46	 B-pro	_	41
+14	492	گرفته	گیر	VERB	conj	22	 O	_	41
+14	493	شد	کن	VERB	aux:pass	48	 O	_	41
+14	494	که	که	SCONJ	mark	57	 O	_	42
+14	495	برد	بر	NOUN	nsubj	57	 O	_	42
+14	496	بلند	بلند	ADJ	amod	51	 O	_	42
+14	497	و	و	CCONJ	cc	54	 O	_	42
+14	498	مناسب	مناسب	ADJ	conj	52	 O	_	42
+14	499	پروازهای	پرواز	NOUN	obj	57	 O	_	42
+14	500	طولانی	طولانی	ADJ	amod	55	 O	_	42
+14	501	دارد	دار	VERB	ccomp	48	 O	_	42
+14	502	اما	اما	CCONJ	cc	67	 O	_	43
+14	503	آمریکا	آمریکا	NOUN	nsubj	67	 B-org	_	43
+14	504	با	با	ADP	case	61	 O	_	43
+14	505	استفاده	استفاده	NOUN	nmod	67	 O	_	43
+14	506	از	از	ADP	case	64	 O	_	43
+14	507	همان	همان	DET	det	64	 O	_	43
+14	508	قانون	قانون	NOUN	nmod	61	 O	_	43
+14	509	داماتو 	دامتوپت	NOUN	nmod:poss	64	 O	_	43
+14	510	،	،	PUNCT	punct	67	 O	_	43
+14	511	مانع	مانع	NOUN	conj	57	 O	_	43
+14	512	فروش	فروش	NOUN	nmod:poss	67	 O	_	43
+14	513	این	این	DET	det	70	 O	_	43
+14	514	هواپیماها	هواپیما	NOUN	nmod:poss	68	 O	_	43
+14	515	به	به	ADP	case	72	 O	_	43
+14	516	ایران	ایران	NOUN	nmod	70	 B-loc	_	43
+14	517	شد	کن	AUX	cop	67	 O	_	43
+14	518	.	.	PUNCT	punct	83	 0	_	43
+14	519	پیش	پیش	ADV	advmod	83	 O	_	44
+14	520	از	از	ADP	case	77	 O	_	44
+14	521	تحریم‌های	تحریم	NOUN	nmod	75	 O	_	44
+14	522	سازمان	سازمان	NOUN	nmod:poss	77	 B-org	_	44
+14	523	ملل	ملت	NOUN	nmod:poss	78	 I-org	_	44
+14	524	این	این	DET	det	81	 O	_	44
+14	525	امکان	امکان	NOUN	nsubj	83	 O	_	44
+14	526	وجود	وجود	NOUN	compound:lvc	83	 O	_	44
+14	527	داشت	دار	VERB	conj	67	 O	_	44
+14	528	که	که	SCONJ	mark	96	 O	_	45
+14	529	از	از	ADP	case	86	 O	_	45
+14	530	طریق	طریق	NOUN	obl	96	 O	_	45
+14	531	«	«	PUNCT	punct	86	 O	_	45
+14	532	لیزینگ	لیزینگ	NOUN	nmod:poss	86	 B-org	_	45
+14	533	»	»	PUNCT	punct	86	 O	_	45
+14	534	هواپیماهای	هواپیما	NOUN	obj	96	 O	_	46
+14	535	مورد	مورد	ADP	case	92	 O	_	46
+14	536	نیاز	نیاز	NOUN	nmod	90	 O	_	46
+14	537	را	را	PART	case	90	 O	_	46
+14	538	وارد	وارد	ADJ	compound:lvc	96	 O	_	46
+14	539	کشور	کشور	NOUN	nmod:poss	94	 O	_	46
+14	540	کنیم	کن	VERB	ccomp	83	 O	_	46
+14	541	.	.	PUNCT	punct	117	 0	_	46
+14	542	با	با	ADP	case	100	 O	_	47
+14	543	روی	رو	ADP	fixed	98	 O	_	47
+14	544	کارآمدن	کارآمدن	NOUN	nmod	117	 O	_	47
+14	545	دولت	دولت	NOUN	nmod:poss	100	 O	_	47
+14	546	یازدهم	یازدهم	ADJ	amod	101	 O	_	47
+14	547	و	و	CCONJ	cc	104	 O	_	47
+14	548	توافق	توافق	NOUN	conj	101	 O	_	47
+14	549	برجام	برجام	NOUN	nmod:poss	104	 O	_	47
+14	550	که	که	SCONJ	mark	113	 O	_	48
+14	551	بند	بند	NOUN	obj	113	 O	_	48
+14	552	مشخص	مشخص	ADJ	amod	107	 O	_	48
+14	553	برای	برای	ADP	case	110	 O	_	48
+14	554	خرید	خرید	NOUN	obl	113	 O	_	48
+14	555	هواپیماهای	هواپیما	NOUN	nmod:poss	110	 O	_	48
+14	556	نو	نو	ADJ	amod	111	 O	_	48
+14	557	داشت	دار	VERB	acl:relcl	105	 O	_	48
+14	558	،	،	PUNCT	punct	117	 O	_	48
+14	559	این	این	DET	det	116	 O	_	49
+14	560	امیدواری	امیدواری	NOUN	nsubj	117	 O	_	49
+14	561	ایجاد	ایجاد	NOUN	conj	96	 O	_	49
+14	562	شد	کن	AUX	cop	117	 O	_	49
+14	563	که	که	SCONJ	mark	137	 O	_	50
+14	564	نیاز	نیاز	NOUN	nsubj	137	 O	_	50
+14	565	کشور	کشور	NOUN	nmod:poss	120	 O	_	50
+14	566	یعنی	یعنی	SCONJ	advmod	137	 O	_	50
+14	567	حدود	حدود	NOUN	advmod	124	 O	_	50
+14	568	۲۵۰	۲۵۰	NUM	nummod	125	 O	_	50
+14	569	فروند	فروند	NOUN	compound	126	 O	_	50
+14	570	هواپیمای	هواپیما	NOUN	nsubj	137	 O	_	50
+14	571	جدید	جدید	ADJ	amod	126	 O	_	50
+14	572	در	در	ADP	case	129	 O	_	50
+14	573	مسیرهای	مسیر	NOUN	nmod	126	 O	_	50
+14	574	کوتاه	کوتاه	ADJ	amod	129	 O	_	50
+14	575	،	،	PUNCT	punct	132	 O	_	50
+14	576	متوسط	متوسط	ADJ	conj	130	 O	_	50
+14	577	و	و	CCONJ	cc	134	 O	_	50
+14	578	طولانی	طولانی	ADJ	conj	132	 O	_	50
+14	579	به	به	ADP	case	136	 O	_	50
+14	580	کشور	کشور	NOUN	nmod	137	 O	_	50
+14	581	وارد	وارد	ADJ	ccomp	117	 O	_	50
+14	582	شود	کن	AUX	cop	137	 O	_	50
+14	583	.	.	PUNCT	punct	147	 0	_	50
+14	584	به	به	ADP	case	141	 O	_	51
+14	585	طور	طور	NOUN	obl	147	 O	_	51
+14	586	طبیعی	طبیعی	ADJ	amod	141	 O	_	51
+14	587	ایرلاین‌های	ایرلاین	NOUN	nmod:poss	141	 O	_	51
+14	588	داخلی	داخلی	ADJ	amod	143	 O	_	51
+14	589	به	به	ADP	case	146	 O	_	52
+14	590	دلیل	دلیل	NOUN	obl	147	 O	_	52
+14	591	نبود	باش	VERB	conj	137	 O	_	52
+14	592	توجیه	توجیه	NOUN	nsubj	157	 O	_	52
+14	593	اقتصادی	اقتصادی	ADJ	amod	148	 O	_	52
+14	594	،	،	PUNCT	punct	157	 O	_	52
+14	595	سراغ	سراغ	ADP	case	152	 O	_	53
+14	596	خرید	خرید	NOUN	obl	157	 O	_	53
+14	597	هواپیماهای	هواپیما	NOUN	nmod:poss	152	 O	_	53
+14	598	کهنه	کهنه	ADJ	amod	153	 O	_	53
+14	599	و	و	CCONJ	cc	156	 O	_	53
+14	600	ارزان	ارزان	ADJ	conj	154	 O	_	53
+14	601	می‌روند	رو	VERB	ccomp	147	 O	_	53
+14	602	.	.	PUNCT	punct	7	 0	_	53
+15	603	چرا	چرا	ADV	mark	7	 O	_	54
+15	604	که	که	CCONJ	fixed	0	 O	_	54
+15	605	اگر	اگر	SCONJ	mark	7	 O	_	54
+15	606	قیمت	قیمت	NOUN	nsubj	7	 O	_	54
+15	607	بلیت	بلیت	NOUN	nmod:poss	3	 O	_	54
+15	608	افزایش	افزایش	NOUN	obj	7	 O	_	54
+15	609	پیدا	پیدا	ADJ	compound:lvc	7	 O	_	54
+15	610	کند	کن	VERB	advcl	15	 O	_	54
+15	611	،	،	PUNCT	punct	15	 O	_	54
+15	612	برای	برای	ADP	case	10	 O	_	55
+15	613	مدتی	مدت	NOUN	obl	15	 O	_	55
+15	614	به	به	ADP	case	12	 O	_	55
+15	615	شدت	شدت	NOUN	obl	15	 O	_	55
+15	616	مسافر	مسافر	NOUN	nmod:poss	12	 O	_	55
+15	617	کاهش	کاهش	NOUN	compound:lvc	15	 O	_	55
+15	618	می‌یابد	یاب	VERB	root	-1	 O	_	55
+15	619	و	و	CCONJ	cc	25	 O	_	56
+15	620	اگر	اگر	SCONJ	mark	25	 O	_	56
+15	621	درصد	درصد	NOUN	nsubj	25	 O	_	56
+15	622	اشغال	اشغال	NOUN	nmod:poss	18	 O	_	56
+15	623	صندلی	صندلی	NOUN	nmod:poss	19	 O	_	56
+15	624	از	از	ADP	case	23	 O	_	56
+15	625	۷۰	۷۰	NUM	nummod	23	 O	_	56
+15	626	درصد	درصد	NOUN	obl	25	 O	_	56
+15	627	پایین	پایین	ADV	compound:lvc	25	 O	_	56
+15	628	بیاید	آ	VERB	advcl	42	 O	_	56
+15	629	و	و	CCONJ	cc	34	 O	_	57
+15	630	میزان	میزان	NOUN	nsubj	34	 O	_	57
+15	631	ساعات	ساعت	NOUN	nmod:poss	27	 O	_	57
+15	632	پرواز	پرواز	NOUN	nmod:poss	28	 O	_	57
+15	633	در	در	ADP	case	31	 O	_	57
+15	634	شبانه	شبانه	ADV	advcl	34	 O	_	57
+15	635	روز	روز	NOUN	advmod	34	 O	_	57
+15	636	کاهش	کاهش	NOUN	compound:lvc	34	 O	_	57
+15	637	داشته	دار	VERB	conj	25	 O	_	57
+15	638	باشد	باش	VERB	aux	34	 O	_	57
+15	639	،	،	PUNCT	punct	42	 O	_	57
+15	640	دیگر	دیگر	ADV	advmod	42	 O	_	58
+15	641	برای	برای	ADP	case	39	 O	_	58
+15	642	آن‌ها	آن	PRON	obl	42	 O	_	58
+15	643	توجیه	توجیه	NOUN	obj	42	 O	_	58
+15	644	اقتصادی	اقتصادی	ADJ	amod	40	 O	_	58
+15	645	ندارد	دار	VERB	conj	15	 O	_	58
+15	646	.	.	PUNCT	punct	15	 0	_	58
+16	647	از	از	ADP	case	1	 O	_	59
+16	648	سوی	سوی	NOUN	obl	16	 O	_	59
+16	649	دیگر	دیگر	ADJ	amod	1	 O	_	59
+16	650	سنگین	سنگین	ADJ	compound:lvc	4	 O	_	59
+16	651	بودن	بودن	NOUN	nsubj	16	 O	_	59
+16	652	اقساط	اقساط	NOUN	nmod:poss	4	 O	_	59
+16	653	هواپیما	هواپیما	NOUN	nmod:poss	5	 O	_	59
+16	654	نیز	نیز	SCONJ	advmod	16	 O	_	59
+16	655	می‌تواند	توان	VERB	aux	16	 O	_	59
+16	656	در	در	ADP	case	10	 O	_	59
+16	657	سودآوری	سودآوری	NOUN	obl	16	 O	_	59
+16	658	کوتاه	کوتاه	ADJ	amod	10	 O	_	59
+16	659	مدت	مدت	NOUN	nmod:poss	10	 O	_	59
+16	660	ایرلاین‌ها	ایرلاین	NOUN	nmod:poss	12	 O	_	59
+16	661	اختلال	اختلال	NOUN	obj	16	 O	_	59
+16	662	ایجاد	ایجاد	NOUN	compound:lvc	16	 O	_	59
+16	663	کند	کن	VERB	root	-1	 O	_	59
+16	664	و	و	CCONJ	cc	30	 O	_	60
+16	665	به	به	ADP	case	20	 O	_	60
+16	666	همین	همین	DET	det	20	 O	_	60
+16	667	دلیل	دلیل	NOUN	obl	30	 O	_	60
+16	668	اشکال	شکل	NOUN	nsubj	30	 O	_	60
+16	669	مختلف	مختلف	ADJ	amod	21	 O	_	60
+16	670	تامین	تامین	NOUN	nmod:poss	21	 O	_	60
+16	671	مالی	مالی	ADJ	amod	23	 O	_	60
+16	672	،	،	PUNCT	punct	30	 O	_	60
+16	673	مد	مد	NOUN	xcomp	30	 O	_	60
+16	674	نظر	نظر	NOUN	nmod:poss	26	 O	_	60
+16	675	آنان	آن	PRON	nmod:poss	27	 O	_	60
+16	676	قرار	قرار	NOUN	compound:lvc	30	 O	_	60
+16	677	گرفته	گیر	VERB	conj	16	 O	_	60
+16	678	است	است	VERB	aux	30	 O	_	60
+16	679	.	.	PUNCT	punct	34	 0	_	60
+16	680	واقعا	واقعا	ADV	advmod	34	 O	_	61
+16	681	شایسته	شایسته	ADJ	conj	30	 O	_	61
+16	682	ملت	ملت	NOUN	nmod:poss	34	 O	_	61
+16	683	ایران	ایران	NOUN	nmod:poss	35	 B-loc	_	61
+16	684	نیست	هست	AUX	cop	34	 O	_	61
+16	685	هواپیمایی	هواپیمایی	NOUN	nsubj	44	 O	_	61
+16	686	مانند	مانند	ADV	case	41	 O	_	61
+16	687	«	«	PUNCT	punct	39	 O	_	61
+16	688	ام	ام	NOUN	nmod	44	 B-pers	_	61
+16	689	دی	دی	NOUN	flat	41	 I-pro	_	61
+16	690	»	»	PUNCT	punct	39	 O	_	61
+16	691	سوار	سوار	NOUN	ccomp	34	 O	_	61
+16	692	شوند	کن	AUX	cop	44	 O	_	61
+16	693	و	و	CCONJ	cc	60	 O	_	62
+16	694	مسیولان	مسیول	NOUN	nsubj	60	 O	_	62
+16	695	دولتی	دولتی	ADJ	amod	47	 O	_	62
+16	696	باید	باید	AUX	aux	60	 O	_	62
+16	697	برای	برای	ADP	case	52	 O	_	62
+16	698	از	از	ADP	fixed	50	 O	_	62
+16	699	رده	رده	NOUN	obl	60	 O	_	62
+16	700	خارج	خارج	NOUN	compound:lvc	54	 O	_	62
+16	701	کردن	کردن	NOUN	nmod:poss	52	 O	_	62
+16	702	تمامی	تمام	DET	det	57	 O	_	62
+16	703	این	این	DET	det	57	 O	_	62
+16	704	هواپیماهای	هواپیما	NOUN	nmod:poss	54	 O	_	62
+16	705	فرسوده	فرسوده	ADJ	amod	57	 O	_	62
+16	706	اقدام	اقدام	NOUN	compound:lvc	60	 O	_	62
+16	707	کنند	کن	VERB	conj	44	 O	_	62
+16	708	.	.	PUNCT	punct	16	 0	_	62
+17	709	صنعت	صنعت	NOUN	nsubj	9	 O	_	63
+17	710	هوانوردی	هوانوردی	NOUN	nmod:poss	0	 B-org	_	63
+17	711	ایران	ایران	NOUN	nmod:poss	1	 I-org	_	63
+17	712	در	در	ADP	case	4	 O	_	63
+17	713	رده‌های	رده	NOUN	obl	9	 O	_	63
+17	714	آخر	آخر	ADJ	amod	4	 O	_	63
+17	715	کشورهای	کشور	NOUN	nmod:poss	4	 O	_	63
+17	716	جهان	جهان	NOUN	nmod:poss	6	 O	_	63
+17	717	قرار	قرار	NOUN	compound:lvc	9	 O	_	63
+17	718	دارد	دار	VERB	root	-1	 O	_	63
+17	719	و	و	CCONJ	cc	14	 O	_	64
+17	720	تجهیزات	تجهیزات	NOUN	nsubj	14	 O	_	64
+17	721	فرودگاهی	فرودگاهی	NOUN	nmod:poss	11	 O	_	64
+17	722	نیز	نیز	SCONJ	advmod	14	 O	_	64
+17	723	دچار	دچار	ADJ	conj	9	 O	_	64
+17	724	نواقص	نواقص	NOUN	nmod:poss	14	 O	_	64
+17	725	جدی	جدی	ADJ	amod	15	 O	_	64
+17	726	و	و	CCONJ	cc	19	 O	_	64
+17	727	بعضا	بعضاً	ADV	advmod	19	 O	_	64
+17	728	متعلق	متعلق	ADJ	conj	15	 O	_	64
+17	729	به۲۰	به۲۰	ADP	case	23	 O	_	64
+17	730	تا	تا	ADP	fixed	20	 O	_	64
+17	731	۲۵	۲۵	NUM	nummod	23	 O	_	64
+17	732	سال	سال	NOUN	nmod	19	 O	_	64
+17	733	قبل	قبل	ADJ	amod	23	 O	_	64
+17	734	است	است	AUX	cop	14	 O	_	64
+17	735	که	که	SCONJ	mark	32	 O	_	65
+17	736	نیاز	نیاز	NOUN	obj	32	 O	_	65
+17	737	به	به	ADP	case	30	 O	_	65
+17	738	به	به	ADP	fixed	28	 O	_	65
+17	739	روزسانی	روزسانی	NOUN	nmod	27	 O	_	65
+17	740	فوری	فوری	ADJ	amod	30	 O	_	65
+17	741	دارند	دار	VERB	ccomp	14	 O	_	65
+17	742	تا	تا	SCONJ	mark	43	 O	_	65
+17	743	ایمنی	ایمنی	NOUN	nsubj	43	 O	_	65
+17	744	پروازها	پرواز	NOUN	nmod:poss	34	 O	_	65
+17	745	حفظ	حفظ	NOUN	nmod:poss	35	 O	_	65
+17	746	و	و	CCONJ	cc	39	 O	_	65
+17	747	از	از	ADP	case	39	 O	_	65
+17	748	سوانحی	سوانحی	NOUN	conj	36	 O	_	65
+17	749	مانند	مانند	ADV	case	41	 O	_	65
+17	750	سانحه	سانحه	NOUN	nmod	43	 O	_	65
+17	751	اخیر	اخیر	ADJ	amod	41	 O	_	65
+17	752	جلوگیری	جلوگیری	NOUN	ccomp	32	 O	_	65
+17	753	شود	کن	AUX	cop	43	 O	_	65
+17	754	.	.	PUNCT	punct	46	 0	_	65
+17	755	بهتر	به	ADJ	conj	43	 O	_	66
+17	756	است	است	AUX	cop	46	 O	_	66
+17	757	به	به	ADP	case	49	 O	_	66
+17	758	جای	جا	NOUN	nmod	80	 O	_	66
+17	759	مقصر	مقصر	ADJ	compound:lvc	51	 O	_	66
+17	760	دانستن	دانستن	NOUN	nmod:poss	49	 O	_	66
+17	761	این	این	DET	det	53	 O	_	66
+17	762	دولت	دولت	NOUN	nmod:poss	51	 O	_	66
+17	763	یا	یا	CCONJ	cc	56	 O	_	66
+17	764	آن	آن	DET	det	56	 O	_	66
+17	765	وزارتخانه	وزارتخانه	NOUN	conj	53	 O	_	66
+17	766	و	و	CCONJ	cc	58	 O	_	66
+17	767	دستگاه	دستگاه	NOUN	conj	56	 O	_	66
+17	768	دیگر	دیگر	ADJ	amod	58	 O	_	66
+17	769	،	،	PUNCT	punct	80	 O	_	66
+17	770	برای	برای	ADP	case	62	 O	_	66
+17	771	استفاده	استفاده	NOUN	nmod	80	 O	_	66
+17	772	از	از	ADP	case	64	 O	_	66
+17	773	مواهب	ماهب	NOUN	nmod	62	 O	_	66
+17	774	برجام	برجام	NOUN	nmod:poss	64	 O	_	66
+17	775	در	در	ADP	case	67	 O	_	66
+17	776	زمینه	زمینه	NOUN	nmod	80	 O	_	66
+17	777	خرید	خرید	NOUN	nmod:poss	67	 O	_	66
+17	778	هواپیما	هواپیما	NOUN	nmod:poss	68	 O	_	66
+17	779	،	،	PUNCT	punct	80	 O	_	66
+17	780	نوعی	نوع	NOUN	det	72	 O	_	66
+17	781	همراهی	همراهی	NOUN	obj	80	 O	_	66
+17	782	میان	میان	ADP	case	75	 O	_	66
+17	783	همه	همه	PRON	det	75	 O	_	66
+17	784	نیروها	نیرو	NOUN	nmod	72	 O	_	66
+17	785	و	و	CCONJ	cc	77	 O	_	66
+17	786	ارکان	رکن	NOUN	conj	75	 O	_	66
+17	787	در	در	ADP	case	79	 O	_	66
+17	788	کشور	کشور	NOUN	nmod	77	 O	_	66
+17	789	ایجاد	ایجاد	NOUN	ccomp	46	 O	_	66
+17	790	شده	کن	AUX	cop	80	 O	_	66
+17	791	و	و	CCONJ	cc	103	 O	_	67
+17	792	باید	باید	AUX	aux	103	 O	_	67
+17	793	به	به	ADP	case	85	 O	_	67
+17	794	آن	آن	PRON	nmod	103	 O	_	67
+17	795	به	به	ADP	case	87	 O	_	67
+17	796	عنوان	عنوان	NOUN	nmod	103	 O	_	67
+17	797	یک	یک	NUM	nummod	89	 O	_	67
+17	798	پروژه	پروژه	NOUN	flat	87	 O	_	67
+17	799	ملی	ملی	ADJ	amod	89	 O	_	67
+17	800	برای	برای	ADP	case	92	 O	_	67
+17	801	رفاه	رفاه	NOUN	nmod	89	 O	_	67
+17	802	و	و	CCONJ	cc	94	 O	_	67
+17	803	تامین	تامین	NOUN	conj	92	 O	_	67
+17	804	امنیت	امنیت	NOUN	nmod:poss	94	 O	_	67
+17	805	جانی	جانی	ADJ	amod	95	 O	_	67
+17	806	مردم	مردم	NOUN	nmod:poss	95	 O	_	67
+17	807	و	و	CCONJ	cc	100	 O	_	67
+17	808	نه	نه	ADV	advmod	100	 O	_	67
+17	809	رقابت	رقابت	NOUN	conj	97	 O	_	67
+17	810	با	با	ADP	case	102	 O	_	67
+17	811	دولت	دولت	NOUN	nmod	100	 O	_	67
+17	812	نگریسته	گرد	ADJ	conj	80	 O	_	67
+17	813	شود	کن	AUX	cop	103	 O	_	67
+17	814	.	.	PUNCT	punct	9	 0	_	67
+18	815	همچنین	همچنین	CCONJ	cc	1	 O	_	68
+18	816	لازم	لازم	ADJ	root	-1	 O	_	68
+18	817	است	است	AUX	cop	1	 O	_	68
+18	818	که	که	SCONJ	mark	21	 O	_	68
+18	819	با	با	ADP	case	5	 O	_	68
+18	820	استفاده	استفاده	NOUN	nmod	21	 O	_	68
+18	821	از	از	ADP	case	7	 O	_	68
+18	822	مدیران	مدیر	NOUN	nmod	5	 O	_	68
+18	823	متخصص	متخصص	ADJ	amod	7	 O	_	68
+18	824	در	در	ADP	case	10	 O	_	68
+18	825	ایرلاین‌های	ایرلاین	NOUN	nmod	7	 O	_	68
+18	826	مختلف	مختلف	ADJ	amod	10	 O	_	68
+18	827	،	،	PUNCT	punct	21	 O	_	68
+18	828	بیش	بیش	ADJ	advmod	15	 O	_	68
+18	829	از	از	ADP	fixed	13	 O	_	68
+18	830	پیش	پیش	ADV	advcl	21	 O	_	68
+18	831	به	به	ADP	case	17	 O	_	68
+18	832	بهره	بهره	NOUN	nmod	21	 O	_	68
+18	833	وری	وری	NOUN	nmod:poss	17	 O	_	68
+18	834	ظرفیت‌های	ظرفیت	NOUN	nmod:poss	18	 O	_	68
+18	835	موجود	موجود	ADJ	amod	19	 O	_	68
+18	836	توجه	توجه	NOUN	ccomp	1	 O	_	68
+18	837	شود	کن	AUX	cop	21	 O	_	68
+18	838	.	.	PUNCT	punct	1	 0	_	68

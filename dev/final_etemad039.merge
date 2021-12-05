@@ -1,0 +1,417 @@
+0	0	این	این	DET	det	1	 O	( (S (VP (VPS (VPS (DP (DEM این)	1
+0	1	روزها	روز	NOUN	advmod	18	 O	(N روزها))	1
+0	2	هرکس	هرکس	PRON	nsubj	18	 O	(VP (ADV هرکس)	1
+0	3	نگاهی	نگاه	NOUN	obj	18	 O	(VP (NP (N_YA نگاهی)	2
+0	4	از	از	ADP	case	5	 O	(PP (MPREP (PREP از)	2
+0	5	سر	سر	NOUN	nmod	3	 O	(N_EZ سر))	2
+0	6	تامل	تامل	NOUN	nmod:poss	5	 O	(N تامل)))	2
+0	7	به	به	ADP	case	8	 O	(VP (PP (PREP به)	2
+0	8	تاریخ	تاریخ	NOUN	nmod	6	 O	(NP_C (NP (N_EZ تاریخ)	2
+0	9	معاصر	معاصر	ADJ	amod	8	 O	(ADJ معاصر))	2
+0	10	،	،	PUNCT	punct	18	 O	(NP_C (PUNC ،)	2
+0	11	جوامع	جامعه	NOUN	nsubj	18	 O	(NP_C (NP (N_EZ جوامع)	2
+0	12	پیرامونی	پیرامون	ADJ	amod	11	 O	(ADJ پیرامونی))	2
+0	13	و	و	CCONJ	cc	14	 O	(NP_C (CONJ و)	2
+0	14	مسایل	مسئله	NOUN	conj	11	 O	(NP (N_EZ مسایل)	2
+0	15	پیش	پیش	ADV	amod	14	 O	(ADV پیش)))))))	2
+0	16	روی	رو	ADP	case	17	 O	(MV (PP (PREP_EZ روی)	2
+0	17	جامعه	جامعه	NOUN	nmod	15	 O	(N جامعه))	2
+0	18	می‌کند	کن	VERB	root	-1	 O	(V می‌کند))))))	2
+0	19	،	،	PUNCT	punct	18	 O	(PUNC ،))	2
+0	20	نمی	نمی	ADV	advmod	21	 O	(VPS (NP (N_EZ نمی)	3
+0	21	تواند	توان	VERB	conj	18	 O	(N تواند))	3
+0	22	به	به	ADP	case	23	 O	(VP (PP (PREP به)	3
+0	23	سادگی	سادگی	NOUN	obl	36	 O	(N سادگی))	3
+0	24	از	از	ADP	case	26	 O	(VP (PP (MPREP (PREP از)	3
+0	25	کنار	کنار	ADP	fixed	24	 O	(ADV_EZ کنار))	3
+0	26	تجمعات	تجمعه	NOUN	nmod	23	 O	(NP (NP_C (N تجمعات)	3
+0	27	،	،	PUNCT	punct	28	 O	(NP_C (PUNC ،)	3
+0	28	اعتراض‌ها	اعتراض	NOUN	conj	26	 O	(NP_C (N اعتراض‌ها)	3
+0	29	و	و	CCONJ	cc	30	 O	(N_C (CONJ و)	3
+0	30	ناامنی‌های	ناامنی	NOUN	conj	28	 O	(N_EZ ناامنی‌های)))))	3
+0	31	نقاط	نقطه	NOUN	nmod:poss	30	 O	(NP (NP (N_EZ نقاط)	3
+0	32	دور	دور	ADJ	amod	31	 O	(ADJP_C (ADJ دور)	3
+0	33	و	و	CCONJ	cc	35	 O	(ADJ_C (CONJ و)	3
+0	34	نزدیک	نزدیک	ADP	case	35	 O	(ADJ نزدیک))))	3
+0	35	کشور	کشور	NOUN	conj	31	 O	(N کشور))))	3
+0	36	بگذرد	بگذرد	VERB	ccomp	21	 O	(V بگذرد)))))	3
+0	37	.	.	PUNCT	punct	18	 0	(PUNC .)) )	3
+1	38	در	در	ADP	case	1	 O	( (S (VP (VP (PP (PREP در)	4
+1	39	داوری	داوری	NOUN	obl	25	 O	(NP (NP (N_EZ داوری)	4
+1	40	نهایی	نهایی	ADJ	amod	1	 O	(ADJ نهایی))	4
+1	41	نسبت	نسبت	ADP	case	5	 O	(NP (N نسبت)	4
+1	42	به	به	ADP	fixed	3	 O	(PP (PREP به)	4
+1	43	آنچه	آنچه	PRON	obl	25	 O	(NP (PRON آنچه)	4
+1	44	در	در	ADP	case	7	 O	(CLR (VPSD (VP (PP (PREP در)	4
+1	45	سال‌های	سال	NOUN	obl	25	 O	(NP (NP (N_EZ سال‌های)	4
+1	46	اخیر	اخیر	ADJ	amod	7	 O	(ADJ اخیر))	4
+1	47	در	در	ADP	case	10	 O	(PP (PREP در)	4
+1	48	کشورهای	کشور	NOUN	nmod	7	 O	(NP (N_EZ کشورهای)	4
+1	49	همسایه	همسایه	ADJ	amod	10	 O	(N همسایه)))))	4
+1	50	گذشت	گذشت	NOUN	nmod:poss	10	 O	(V گذشت)))))))))	4
+1	51	مانویل	مانویل	NOUN	nmod:poss	12	 O	(VPS (NP (N_EZ مانویل)	4
+1	52	کاستلز	کاستلز	NOUN	flat	13	 O	(N کاستلز))	4
+1	53	اثری	اثر	NOUN	obj	25	 O	(VP (NP (N_YA اثری)	4
+1	54	خواندنی	خواندنی	ADJ	amod	15	 O	(ADJP (ADJ_EZ خواندنی)	4
+1	55	به	به	ADP	case	18	 O	(PP (PREP به)	4
+1	56	نام	نام	NOUN	obl	25	 O	(NP (N_EZ نام)	4
+1	57	«	«	PUNCT	punct	18	 O	(NP (PUNC «)	4
+1	58	شبکه‌های	شبکه	NOUN	flat	18	 O	(NP (N_EZ شبکه‌های)	4
+1	59	خشم	خشم	NOUN	nmod:poss	20	 O	(NP_C (N خشم)	4
+1	60	و	و	CCONJ	cc	23	 O	(N_C (CONJ و)	4
+1	61	امید	امید	NOUN	conj	21	 O	(N امید))))	4
+1	62	»	»	PUNCT	punct	18	 O	(PUNC »))))))	4
+1	63	دارد	دار	VERB	root	-1	 O	(V دارد))))	4
+1	64	که	که	SCONJ	mark	48	 O	(CL (CONJ که)	5
+1	65	در	در	ADP	case	28	 O	(VPSD (VP_C (VP (PP (PREP در)	5
+1	66	آن	آن	PRON	obl	48	 O	(NP (PRON (DEM آن))	5
+1	67	هم	هم	CCONJ	cc:preconj	27	 O	(CONJ هم)))	5
+1	68	فرصت‌ها	فرصت	NOUN	nsubj	48	 O	(V فرصت‌ها))	5
+1	69	و	و	CCONJ	cc	33	 O	(VP_C (CONJ و)	5
+1	70	هم	هم	CCONJ	fixed	31	 O	(VP (CONJ هم)	5
+1	71	تهدیدهای	تهدید	NOUN	conj	30	 O	(VP (NP (NP (N_EZ تهدیدهای)	5
+1	72	ناشی	ناشی	ADJ	amod	33	 O	(ADJP (ADJ ناشی)	5
+1	73	از	از	ADP	case	37	 O	(PP (PREP از)	5
+1	74	در	در	ADP	fixed	35	 O	(NP (NP (PP (PREP در)	5
+1	75	هم	هم	PRON	nmod	33	 O	(CONJ هم))	5
+1	76	آمیختگی	آمیختگی	NOUN	obj	48	 O	(N آمیختگی))	5
+1	77	میان	میان	ADP	case	40	 O	(PP (PREP_EZ میان)	5
+1	78	فضای	فضا	NOUN	nmod	38	 O	(NP (N_EZ فضای)	5
+1	79	اجتماعی	اجتماعی	ADJ	amod	40	 O	(ADJP_C (ADJ اجتماعی)	5
+1	80	،	،	PUNCT	punct	43	 O	(ADJP_C (PUNC ،)	5
+1	81	سیاسی	سیاسی	ADJ	conj	41	 O	(ADJP_C (ADJ سیاسی)	5
+1	82	و	و	CCONJ	cc	45	 O	(ADJ_C (CONJ و)	5
+1	83	مجازی	مجازی	ADJ	conj	43	 O	(ADJ مجازی)))))))))))	5
+1	84	را	را	PART	case	38	 O	(POSTP را))	5
+1	85	گوشزد	گوشزد	NOUN	compound:lvc	48	 O	(MV (N گوشزد)	5
+1	86	می‌کند	کن	VERB	ccomp	25	 O	(V می‌کند)))))))))	5
+1	87	.	.	PUNCT	punct	25	 0	(PUNC .)) )	5
+2	88	درنگ	درنگ	NOUN	nsubj	33	 O	( (S (VPS (N درنگ)	6
+2	89	در	در	ADP	case	3	 O	(VP (PP (PREP در)	6
+2	90	چنین	چنین	ADV	advmod	3	 O	(NP (CLASS چنین)	6
+2	91	دریافت‌ها	دریافت	NOUN	obl	33	 O	(NP_C (N دریافت‌ها)	6
+2	92	و	و	CCONJ	cc	5	 O	(N_C (CONJ و)	6
+2	93	تجاربی	تجاربی	NOUN	conj	3	 O	(N_YA تجاربی)))))	6
+2	94	فضا	فضا	NOUN	obj	33	 O	(VP (NP (N فضا)	6
+2	95	را	را	PART	case	6	 O	(POSTP را))	6
+2	96	برای	برای	ADP	case	9	 O	(VP (PP (PREP_EZ برای)	6
+2	97	درک	درک	NOUN	obl	33	 O	(NP_C (NP (N_EZ درک)	6
+2	98	همه	همه	PRON	det	11	 O	(DP (DET_EZ همه)	6
+2	99	جانبه	جانبه	NOUN	nmod:poss	9	 O	(NP (N_EZ جانبه)	6
+2	100	تر	تر	ADJ	amod	11	 O	(NP (N_EZ تر)	6
+2	101	چیستی	چیست	NOUN	nmod:poss	11	 O	(N چیستی)))))	6
+2	102	و	و	CCONJ	cc	15	 O	(NP_C (CONJ و)	6
+2	103	چگونگی	چگونگی	NOUN	conj	13	 O	(NP_C (NP (N_EZ چگونگی)	6
+2	104	این	این	DET	det	17	 O	(DP (DEM این)	6
+2	105	تجمعات	تجمعه	NOUN	nmod:poss	15	 O	(N تجمعات)))	6
+2	106	و	و	CCONJ	cc	19	 O	(NP_C (CONJ و)	6
+2	107	اعتراض‌های	اعتراض	NOUN	conj	17	 O	(NP_C (NP (N_EZ اعتراض‌های)	6
+2	108	پراکنده	پراکنده	ADJ	amod	19	 O	(ADJ پراکنده))	6
+2	109	و	و	CCONJ	cc	22	 O	(NP_C (CONJ و)	6
+2	110	سرایت	سرایت	NOUN	conj	19	 O	(NP_C (MN (N سرایت)	6
+2	111	پذیر	پذیر	ADJ	amod	22	 B-loc	(N پذیر))	6
+2	112	و	و	CCONJ	cc	25	 O	(N_C (CONJ و)	6
+2	113	تدبر	تدبر	NOUN	conj	23	 O	(N تدبر))))))))))	6
+2	114	در	در	ADP	case	27	 O	(VP (PP (PREP در)	6
+2	115	آغاز	آغاز	NOUN	obl	33	 O	(NP (NP_C (N آغاز)	6
+2	116	و	و	CCONJ	cc	29	 O	(N_C (CONJ و)	6
+2	117	فرجام	فرجام	NOUN	conj	27	 O	(N_EZ فرجام)))	6
+2	118	آنها	آن	PRON	nmod:poss	29	 O	(PRON (DEM آنها))))	6
+2	119	بیشتر	بیش	ADJ	xcomp	33	 O	(VP (ADV بیشتر)	6
+2	120	فراهم	فراهم	NOUN	compound:lvc	33	 O	(MV (N فراهم)	6
+2	121	می‌کند	کن	VERB	root	-1	 O	(V می‌کند))))))))	6
+2	122	.	.	PUNCT	punct	33	 0	(PUNC .)) )	6
+3	123	آنچه	آنچه	PRON	nsubj	14	 O	( (S (VP (VPS (CLFR (PRON آنچه)	7
+3	124	کشور	کشور	NOUN	nsubj	10	 O	(CLR (VPS (NP_C (N کشور)	7
+3	125	،	،	PUNCT	punct	10	 O	(NP_C (PUNC ،)	7
+3	126	ملت	ملت	NOUN	nsubj	10	 O	(NP_C (N ملت)	7
+3	127	،	،	PUNCT	punct	5	 O	(NP_C (PUNC ،)	7
+3	128	نظام	نظام	NOUN	conj	3	 O	(NP_C (N نظام)	7
+3	129	و	و	CCONJ	cc	7	 O	(N_C (CONJ و)	7
+3	130	دولت	دولت	NOUN	conj	5	 O	(N دولت)))))))	7
+3	131	با	با	ADP	case	9	 O	(VP (PP (PREP با)	7
+3	132	آن	آن	PRON	nmod	10	 O	(PRON (DEM آن)))	7
+3	133	روبرو	روبرو	NOUN	acl:relcl	0	 O	(VP (ADJ روبرو)	7
+3	134	است	است	AUX	cop	10	 O	(V است))))))	7
+3	135	مضمون	مضمون	NOUN	obj	14	 O	(VP (VP (NP (N_EZ مضمون)	7
+3	136	مشترکی	مشترکی	ADJ	amod	12	 O	(ADJ_YA مشترکی))	7
+3	137	دارد	دار	VERB	root	-1	 O	(V دارد))	7
+3	138	:	:	PUNCT	punct	14	 O	(VP (PUNC :)	7
+3	139	باید	باید	AUX	aux	40	 O	(VP (VP (AUX (V باید))	8
+3	140	به	به	ADP	case	18	 O	(VP (VP (PP_C (PP (PREP به)	8
+3	141	فکر	فکر	NOUN	obl	40	 O	(NP (N_EZ فکر)	8
+3	142	ایران	ایران	NOUN	nmod:poss	18	 B-org	(N ایران)))	8
+3	143	،	،	PUNCT	punct	40	 O	(PP_C (PUNC ،)	8
+3	144	به	به	ADP	case	22	 O	(PP_C (PP (PREP به)	8
+3	145	فکر	فکر	NOUN	obl	40	 O	(NP (N_EZ فکر)	8
+3	146	سرمایه‌ها	سرمایه	NOUN	nmod:poss	22	 O	(NP_C (N سرمایه‌ها)	8
+3	147	و	و	CCONJ	cc	25	 O	(NP_C (CONJ و)	8
+3	148	دستاوردهای	دستاورد	NOUN	conj	23	 O	(NP (NP (N_EZ دستاوردهای)	8
+3	149	معنوی	معنوی	ADJ	amod	25	 O	(ADJP_C (ADJ معنوی)	8
+3	150	و	و	CCONJ	cc	28	 O	(ADJ_C (CONJ و)	8
+3	151	مادی	مادی	ADJ	conj	26	 O	(ADJ_EZ مادی))))	8
+3	152	کشور	کشور	NOUN	nmod:poss	28	 O	(N کشور))))))	8
+3	153	و	و	CCONJ	cc	32	 O	(PP_C (CONJ و)	8
+3	154	به	به	ADP	case	32	 O	(PP (PREP به)	8
+3	155	فکر	فکر	NOUN	conj	17	 O	(NP (N_EZ فکر)	8
+3	156	حل	حل	NOUN	nmod:poss	32	 O	(NP (NP_C (N حل)	8
+3	157	و	و	CCONJ	cc	35	 O	(N_C (CONJ و)	8
+3	158	فصل	فصل	NOUN	conj	33	 O	(N_EZ فصل)))	8
+3	159	ریشه‌ای	ریشه	ADJ	amod	35	 O	(NP (N_EZ ریشه‌ای)	8
+3	160	انتظارات	انتظار	NOUN	nmod:poss	35	 O	(NP_C (N انتظارات)	8
+3	161	و	و	CCONJ	cc	39	 O	(N_C (CONJ و)	8
+3	162	انتقاداتی	انتقاد	NOUN	conj	37	 O	(N_YA انتقاداتی)))))))))))	8
+3	163	بود	باش	VERB	ccomp	14	 O	(V بود))	8
+3	164	که	که	SCONJ	mark	43	 O	(CLC (CONJ که)	9
+3	165	حتی	حتی	ADV	advmod	43	 O	(VP (ADV حتی)	9
+3	166	ممکن	ممکن	ADJ	ccomp	40	 O	(VP (VP (ADJ ممکن)	9
+3	167	است	است	AUX	cop	43	 O	(V است))	9
+3	168	زبان	زبان	NOUN	obj	52	 O	(CLCD (VPSD (VP (NP (N_EZ زبان)	9
+3	169	متفاوتی	متفاوت	ADJ	amod	45	 O	(ADJ_YA متفاوتی))	9
+3	170	در	در	ADP	case	48	 O	(VP (PP (PREP در)	9
+3	171	ابراز	ابراز	NOUN	obl	52	 O	(NP (NP_C (N ابراز)	9
+3	172	و	و	CCONJ	cc	50	 O	(N_C (CONJ و)	9
+3	173	اظهار	اظهار	NOUN	conj	48	 O	(N_EZ اظهار)))	9
+3	174	خود	خود	PRON	nmod:poss	50	 O	(PRON خود)))	9
+3	175	داشته	دار	VERB	ccomp	43	 O	(MV (PPARV داشته)	9
+3	176	باشد	باش	VERB	aux	52	 O	(V باشد)))))))))))	9
+3	177	:	:	PUNCT	punct	52	 O	(VPS (PUNC :)	9
+3	178	ایران	ایران	NOUN	nsubj	62	 B-loc	(VPS (N ایران)	10
+3	179	امروز	امروز	ADV	advmod	62	 O	(VP (ADV امروز)	10
+3	180	بیش	بیش	ADJ	advmod	59	 O	(VP (DP (DET (ADJ بیش))	10
+3	181	از	از	ADP	fixed	57	 O	(PP (PREP از)	10
+3	182	هر	هر	DET	det	60	 O	(DP (DET هر)	10
+3	183	زمانی	زمان	NOUN	obl	62	 O	(N_YA زمانی))))	10
+3	184	نیازمند	نیازمند	ADJ	compound:lvc	62	 O	(VP (ADJ نیازمند)	10
+3	185	گفت	گو	VERB	ccomp	52	 O	(V گفت))))))))))	10
+3	186	وگو	وگو	NOUN	nsubj	89	 O	(VPS (NP_C (NP_C (NP (NP_C (N وگو)	10
+3	187	و	و	CCONJ	cc	65	 O	(N_C (CONJ و)	10
+3	188	تفاهم	تفاهم	NOUN	conj	63	 O	(N_EZ تفاهم)))	10
+3	189	ملی	ملی	ADJ	amod	65	 O	(ADJ ملی))	10
+3	190	و	و	CCONJ	cc	68	 O	(NP_C (CONJ و)	10
+3	191	تلاش	تلاش	NOUN	conj	65	 O	(NP (N تلاش)	10
+3	192	برای	برای	ADP	case	70	 O	(PP (PREP_EZ برای)	10
+3	193	دفاع	دفاع	NOUN	nmod	68	 O	(NP (N دفاع)	10
+3	194	از	از	ADP	case	72	 O	(PP (PREP از)	10
+3	195	دموکراسی	دموکراسی	NOUN	nmod	70	 O	(N دموکراسی)))))))	10
+3	196	،	،	PUNCT	punct	74	 O	(PUNC ،))	10
+3	197	اصلاحات	اصلاح	NOUN	conj	72	 O	(VP (NP_C (N اصلاحات)	10
+3	198	و	و	CCONJ	cc	76	 O	(NP_C (CONJ و)	10
+3	199	پرهیز	پرهیز	NOUN	conj	74	 O	(NP_C (NP (N پرهیز)	10
+3	200	از	از	ADP	case	78	 O	(PP (PREP از)	10
+3	201	خشونت	خشونت	NOUN	nmod	76	 O	(NP (NP_C (N خشونت)	10
+3	202	و	و	CCONJ	cc	80	 O	(N_C (CONJ و)	10
+3	203	افراطی	افراطی	NOUN	conj	78	 O	(N_EZ افراطی)))	10
+3	204	گری	گری	ADJ	amod	80	 O	(N گری))))	10
+3	205	و	و	CCONJ	cc	84	 O	(NP_C (CONJ و)	10
+3	206	محدود	محدود	ADJ	compound:lvc	84	 O	(NP (MN (ADJ محدود)	10
+3	207	شدن	شدن	NOUN	conj	80	 O	(INFV_EZ شدن))	10
+3	208	فضاهای	فضا	NOUN	nmod:poss	84	 O	(NP (N_EZ فضاهای)	10
+3	209	آزاد	آزاد	ADJ	amod	85	 O	(ADJP_C (ADJ آزاد)	10
+3	210	و	و	CCONJ	cc	88	 O	(ADJ_C (CONJ و)	10
+3	211	نقاد	نقاد	ADJ	conj	86	 O	(ADJ نقاد)))))))))	10
+3	212	است	است	AUX	conj	61	 O	(V است))))	10
+3	213	.	.	PUNCT	punct	112	 0	(PUNC .)) )	10
+3	214	هنوز	هنوز	ADV	advmod	112	 O	( (S (VP (ADV هنوز)	11
+3	215	طعم	طعم	NOUN	nsubj	112	 O	(VPS (NP (NP (NP (N_EZ طعم)	11
+3	216	شیرین	شیرین	ADJ	amod	92	 O	(ADJ_EZ شیرین))	11
+3	217	برگزاری	برگزاری	NOUN	nmod:poss	92	 O	(NP (N_EZ برگزاری)	11
+3	218	انتخاباتی	انتخاباتی	ADJ	amod	94	 O	(ADJ_EZ انتخاباتی)))	11
+3	219	آزادانه	آزادانه	ADV	advmod	112	 O	(ADVP (ADV آزادانه)	11
+3	220	که	که	SCONJ	mark	100	 O	(CL (CONJ که)	12
+3	221	حاصل	حاصل	NOUN	nsubj	100	 O	(VPS (NP (N_EZ حاصل)	12
+3	222	آن	آن	PRON	nmod:poss	98	 O	(PRON (DEM آن)))	12
+3	223	سربلندی	سربلندی	NOUN	acl:relcl	96	 O	(VP (NP (NP (N_EZ سربلندی)	12
+3	224	ملت	ملت	NOUN	nmod:poss	100	 O	(NP (N_EZ ملت)	12
+3	225	ایران	ایران	NOUN	nmod:poss	101	 B-org	(N ایران)))	12
+3	226	در	در	ADP	case	104	 O	(PP (PREP در)	12
+3	227	منطقه	منطقه	NOUN	nmod	100	 O	(N منطقه)))	12
+3	228	بود	باش	AUX	cop	100	 O	(V بود))))))	12
+3	229	در	در	ADP	case	107	 O	(VP (PP (PREP در)	13
+3	230	دورن	دورن	NOUN	nmod	112	 O	(NP (NP_C (N دورن)	13
+3	231	و	و	CCONJ	cc	109	 O	(N_C (CONJ و)	13
+3	232	بیرون	بیرون	ADV	conj	107	 O	(N بیرون)))	13
+3	233	کشور	کشور	NOUN	nmod:poss	109	 O	(NP (N_EZ کشور)	13
+3	234	ما	ما	PRON	nmod:poss	110	 O	(PRON ما))))	13
+3	235	احساس	احساس	NOUN	conj	89	 O	(MV (N احساس)	13
+3	236	می‌شود	کن	AUX	cop	112	 O	(V می‌شود)))))	13
+3	237	.	.	PUNCT	punct	130	 0	(PUNC .)) )	13
+3	238	فرصت	فرصت	NOUN	nsubj	130	 O	( (S (VP (VPS (NP (N فرصت)	14
+3	239	برای	برای	ADP	case	117	 O	(PP (PREP_EZ برای)	14
+3	240	پیگیری	پیگیری	NOUN	nmod	115	 O	(NP (NP_C (NP (N_EZ پیگیری)	14
+3	241	نتایج	نتیجه	NOUN	nmod:poss	117	 O	(N نتایج))	14
+3	242	و	و	CCONJ	cc	120	 O	(NP_C (CONJ و)	14
+3	243	وعده‌ها	وعده	NOUN	conj	118	 O	(NP (NP_C (N وعده‌ها)	14
+3	244	و	و	CCONJ	cc	122	 O	(N_C (CONJ و)	14
+3	245	برنامه‌های	برنامه	NOUN	conj	120	 O	(N_EZ برنامه‌های)))	14
+3	246	آن	آن	PRON	nmod:poss	122	 O	(PRON (DEM آن)))))	14
+3	247	حتی	حتی	ADV	advmod	130	 O	(PP (ADV حتی)	14
+3	248	با	با	ADP	case	126	 O	(PP (PREP با)	14
+3	249	نقد	نقد	NOUN	nmod	130	 O	(NP (NP_C (N نقد)	14
+3	250	و	و	CCONJ	cc	128	 O	(N_C (CONJ و)	14
+3	251	مطالبه	مطالبه	NOUN	conj	126	 O	(N_EZ مطالبه)))	14
+3	252	گری	گری	NOUN	nmod:poss	128	 O	(N گری)))))))	14
+3	253	فرصت	فرصت	NOUN	conj	112	 O	(VP (NP (N_EZ فرصت)	14
+3	254	مطلوبی	مطلوب	ADJ	amod	130	 O	(ADJ_YA مطلوبی))	14
+3	255	است	است	AUX	cop	130	 O	(V است)))	14
+3	256	که	که	SCONJ	mark	137	 O	(CL (CONJ که)	15
+3	257	نباید	باید	AUX	aux	137	 O	(VPSD (VP (AUX (V نباید))	15
+3	258	از	از	ADP	case	136	 O	(VP (PP (PREP از)	15
+3	259	آن	آن	PRON	nmod	137	 O	(PRON (DEM آن)))	15
+3	260	غافل	غافل	ADJ	ccomp	130	 O	(VP (ADJ غافل)	15
+3	261	شد	کن	AUX	cop	137	 O	(V شد)))))))	15
+3	262	.	.	PUNCT	punct	151	 0	(PUNC .)) )	15
+3	263	هنوز	هنوز	ADV	advmod	151	 O	( (S (VP (VPSD (VP (ADV هنوز)	16
+3	264	باید	باید	AUX	aux	151	 O	(VP (AUX (V باید))	16
+3	265	با	با	ADP	case	143	 O	(VP (PP (PREP با)	16
+3	266	صراحت	صراحت	NOUN	obl	151	 O	(NP_C (N صراحت)	16
+3	267	و	و	CCONJ	cc	145	 O	(N_C (CONJ و)	16
+3	268	قوت	قوت	NOUN	conj	143	 O	(N قوت))))	16
+3	269	از	از	ADP	case	147	 O	(VP (PP (PREP از)	16
+3	270	دولت	دولت	NOUN	nmod	145	 O	(NP (NP (N_EZ دولت)	16
+3	271	منتخب	منتخب	ADJ	amod	147	 O	(ADJ_EZ منتخب))	16
+3	272	ملت	ملت	NOUN	nmod:poss	148	 O	(N ملت)))	16
+3	273	حمایت	حمایت	NOUN	compound:lvc	151	 O	(MV (N حمایت)	16
+3	274	کرد	کن	VERB	conj	137	 O	(V کرد)))))))	16
+3	275	تا	تا	SCONJ	mark	181	 O	(CL (CONJ تا)	17
+3	276	از	از	ADP	case	154	 O	(VPSD (VP_C (VP (PP (PREP از)	17
+3	277	مسایل	مسئله	NOUN	obl	181	 O	(NP (N_EZ مسایل)	17
+3	278	ریز	ریز	ADJ	amod	154	 O	(ADJP_C (ADJ ریز)	17
+3	279	و	و	CCONJ	cc	157	 O	(ADJ_C (CONJ و)	17
+3	280	درشت	درشت	ADJ	conj	155	 O	(ADJ درشت)))))	17
+3	281	اقتصادی	اقتصادی	ADJ	amod	157	 O	(VP (ADJP_C (ADJP (ADJP_C (ADJ اقتصادی)	17
+3	282	،	،	PUNCT	punct	160	 O	(ADJP_C (PUNC ،)	17
+3	283	اجتماعی	اجتماعی	ADJ	conj	157	 O	(ADJP_C (ADJ اجتماعی)	17
+3	284	،	،	PUNCT	punct	162	 O	(ADJP_C (PUNC ،)	17
+3	285	سیاسی	سیاسی	ADJ	conj	160	 O	(ADJP_C (ADJ سیاسی)	17
+3	286	و	و	CCONJ	cc	164	 O	(ADJ_C (CONJ و)	17
+3	287	فرهنگی	فرهنگی	ADJ	conj	162	 O	(ADJ فرهنگی)))))))	17
+3	288	چه	چه	SCONJ	advmod	166	 O	(CL (MCONJ (Q چه)	18
+3	289	آنها	آن	PRON	nsubj	151	 O	(PRON (DEM آنها))	18
+3	290	که	که	SCONJ	mark	168	 O	(CONJ که))	18
+3	291	مزمن	مزمن	ADJ	acl:relcl	166	 O	(VPSD (VP (ADJ مزمن)	18
+3	292	اند	هست	AUX	cop	168	 O	(CLITIC اند)))))	18
+3	293	و	و	CCONJ	cc	171	 O	(ADJP_C (CONJ و)	18
+3	294	ساختاری	ساختاری	NOUN	conj	168	 O	(ADJP_C (ADJ ساختاری)	18
+3	295	و	و	CCONJ	cc	174	 O	(ADJP_C (CONJ و)	19
+3	296	چه	چه	SCONJ	advmod	174	 O	(ADJP (MCONJ (Q چه)	19
+3	297	آنها	آن	PRON	conj	171	 O	(PRON (DEM آنها))	19
+3	298	که	که	SCONJ	mark	176	 O	(CONJ که))	19
+3	299	جدید	جدید	ADJ	acl:relcl	174	 O	(ADJ_EZ جدید))))))	19
+3	300	هستند	هست	AUX	cop	176	 O	(V هستند)))	19
+3	301	و	و	CCONJ	cc	179	 O	(VP_C (CONJ و)	19
+3	302	عاملیتی	عاملیتی	NOUN	obj	181	 O	(VP (N عاملیتی)	19
+3	303	مطالبه	مطالبه	NOUN	compound:lvc	181	 O	(MV (N مطالبه)	20
+3	304	کنند	کن	VERB	conj	168	 O	(V کنند))))))))	20
+3	305	.	.	PUNCT	punct	14	 0	(PUNC .)) )	20
+4	306	مهم	مهم	ADJ	advmod	24	 O	( (S (VP (VPS (NP (NP (MN (ADJ مهم)	21
+4	307	ترین	ترین	ADJ	amod	2	 O	(INFV_EZ ترین))	21
+4	308	ضرورتی	ضرورتی	NOUN	nsubj	24	 O	(NP (N_YA ضرورتی)	21
+4	309	که	که	SCONJ	mark	22	 O	(CL (CONJ که)	22
+4	310	پیش	پیش	ADP	case	7	 O	(VPSD (VP (PP (ADV پیش)	22
+4	311	روی	رو	ADP	fixed	4	 O	(PP (PREP_EZ روی)	22
+4	312	همه	همه	PRON	det	7	 O	(DP (DET_EZ همه)	22
+4	313	نیروها	نیرو	NOUN	obl	22	 O	(NP_C (N نیروها)	22
+4	314	و	و	CCONJ	cc	9	 O	(NP_C (CONJ و)	22
+4	315	جریان‌های	جریان	NOUN	conj	7	 O	(NP_C (NP (N_EZ جریان‌های)	22
+4	316	سیاسی	سیاسی	ADJ	amod	9	 O	(ADJ سیاسی))	22
+4	317	،	،	PUNCT	punct	12	 O	(NP_C (PUNC ،)	22
+4	318	نخبگان	نخبه	NOUN	conj	9	 O	(NP_C (NP (NP_C (N نخبگان)	22
+4	319	و	و	CCONJ	cc	14	 O	(N_C (CONJ و)	22
+4	320	فعالان	فعال	NOUN	conj	12	 O	(N_EZ فعالان)))	22
+4	321	مدنی	مدنی	ADJ	amod	14	 O	(ADJ مدنی))	22
+4	322	و	و	CCONJ	cc	18	 O	(DP_C (CONJ و)	22
+4	323	همه	همه	PRON	det	18	 O	(DP (DET_EZ همه)	22
+4	324	گروه‌ها	گروه	NOUN	conj	14	 O	(NP (NP_C (N گروه‌ها)	22
+4	325	و	و	CCONJ	cc	20	 O	(N_C (CONJ و)	22
+4	326	قشرهای	قشر	NOUN	conj	18	 O	(N_EZ قشرهای)))	22
+4	327	اجتماعی	اجتماعی	ADJ	amod	20	 O	(ADJ اجتماعی))))))))))))	22
+4	328	است	است	AUX	acl:relcl	2	 O	(V است))))))	22
+4	329	،	،	PUNCT	punct	24	 O	(PUNC ،))	22
+4	330	این	این	PRON	root	-1	 O	(VP (NP (PRON (DEM این)))	23
+4	331	است	است	AUX	cop	24	 O	(V است)))	23
+4	332	که	که	SCONJ	mark	27	 O	(CL (CONJ که)	23
+4	333	نگذارند	گذار	VERB	ccomp	24	 O	(VP (V نگذارند)	23
+4	334	مرزهای	مرز	NOUN	nsubj	59	 O	(CLCD (VPS (NP (NP (N_EZ مرزهای)	23
+4	335	میان	میان	ADP	case	30	 O	(PP (PREP_EZ میان)	23
+4	336	مسایل	مسئله	NOUN	nmod	28	 O	(NP_C (NP (NP (N_EZ مسایل)	23
+4	337	جدی	جدی	ADJ	amod	30	 O	(ADJ_EZ جدی))	23
+4	338	مردم	مردم	NOUN	nmod:poss	30	 O	(N مردم))	23
+4	339	و	و	CCONJ	cc	34	 O	(NP_C (CONJ و)	23
+4	340	انتقادات	انتقاد	NOUN	conj	32	 O	(NP_C (N انتقادات)	23
+4	341	و	و	CCONJ	cc	36	 O	(N_C (CONJ و)	23
+4	342	اعتراض‌های	اعتراض	NOUN	conj	34	 O	(N اعتراض‌های)))))))	23
+4	343	به	به	ADP	case	38	 O	(PP (PREP به)	23
+4	344	حق	حق	NOUN	nmod	36	 O	(NP (NP_C (N حق)	23
+4	345	و	و	CCONJ	cc	40	 O	(ADJP_C (CONJ و)	23
+4	346	مدنی	مدنی	NOUN	conj	38	 O	(ADJP_C (ADJ مدنی)	23
+4	347	و	و	CCONJ	cc	42	 O	(ADJ_C (CONJ و)	23
+4	348	قانونی	قانونی	ADJ	conj	40	 O	(ADJ_EZ قانونی)))))	23
+4	349	جامعه	جامعه	NOUN	nmod:poss	42	 O	(N جامعه))))	23
+4	350	با	با	ADP	case	45	 O	(VP (PP (PP (PREP با)	23
+4	351	اراده‌های	اراده	NOUN	nmod	59	 O	(NP (NP (N_EZ اراده‌های)	23
+4	352	داخلی	داخلی	ADJ	amod	45	 O	(ADJP_C (ADJ داخلی)	23
+4	353	و	و	CCONJ	cc	48	 O	(ADJ_C (CONJ و)	23
+4	354	خارجی	خارجی	ADJ	conj	46	 O	(ADJ خارجی))))	23
+4	355	که	که	SCONJ	mark	57	 O	(CL (CONJ که)	24
+4	356	میل	میل	NOUN	obj	57	 O	(VPSD (VP (NP (N میل)	24
+4	357	به	به	ADP	case	52	 O	(PP (PREP به)	24
+4	358	آشوب	آشوب	NOUN	nmod	50	 O	(NP_C (N آشوب)	24
+4	359	و	و	CCONJ	cc	54	 O	(NP_C (CONJ و)	24
+4	360	آشفتگی	آشفتگی	NOUN	conj	52	 O	(NP_C (N آشفتگی)	24
+4	361	و	و	CCONJ	cc	56	 O	(N_C (CONJ و)	24
+4	362	حربه‌ها	حربه	NOUN	conj	54	 O	(N حربه‌ها)))))))	24
+4	363	دارند	دار	VERB	acl:relcl	45	 O	(V دارند))))))	24
+4	364	،	،	PUNCT	punct	59	 O	(PUNC ،))	24
+4	365	مخدوش	مخدوش	ADJ	ccomp	27	 O	(MV (ADJ مخدوش)	25
+4	366	شود	کن	AUX	cop	59	 O	(V شود))))))))	25
+4	367	.	.	PUNCT	punct	24	 0	(PUNC .)) )	25
+5	368	امروز	امروز	ADV	advmod	25	 O	( (S (VP (ADV امروز)	26
+5	369	روز	روز	NOUN	advmod	25	 O	(VP (VPS (NP (NP (N_EZ روز)	26
+5	370	تفاهم	تفاهم	NOUN	nmod:poss	1	 O	(NP_C (N تفاهم)	26
+5	371	و	و	CCONJ	cc	4	 O	(N_C (CONJ و)	26
+5	372	توافق	توافق	NOUN	conj	2	 O	(N توافق))))	26
+5	373	بر	بر	ADP	case	6	 O	(PP (MPREP (PREP بر)	26
+5	374	سر	سر	NOUN	nmod	4	 O	(N_EZ سر))	26
+5	375	مقابله	مقابله	NOUN	nmod:poss	6	 O	(NP_C (NP (N مقابله)	26
+5	376	با	با	ADP	case	9	 O	(PP (PREP با)	26
+5	377	خشونت	خشونت	NOUN	nmod	7	 O	(NP (NP_C (N خشونت)	26
+5	378	و	و	CCONJ	cc	11	 O	(N_C (CONJ و)	26
+5	379	افراطی	افراطی	NOUN	conj	9	 O	(N_EZ افراطی)))	26
+5	380	گری	گری	NOUN	nmod:poss	11	 O	(N گری))))	26
+5	381	و	و	CCONJ	cc	14	 O	(NP_C (CONJ و)	26
+5	382	روز	روز	NOUN	conj	12	 O	(NP (N_EZ روز)	26
+5	383	دفاع	دفاع	NOUN	nmod:poss	14	 O	(NP (N دفاع)	26
+5	384	از	از	ADP	case	17	 O	(PP (PREP از)	26
+5	385	دستاوردهای	دستاورد	NOUN	nmod	15	 O	(NP (N_EZ دستاوردهای)	26
+5	386	آزادی	آزادی	NOUN	nmod:poss	17	 O	(NP_C (N آزادی)	26
+5	387	و	و	CCONJ	cc	20	 O	(N_C (CONJ و)	26
+5	388	دموکراسی	دموکراسی	NOUN	conj	18	 O	(N دموکراسی)))))))))))	26
+5	389	در	در	ADP	case	24	 O	(VP (PP (MPREP (PREP در)	26
+5	390	برابر	برابر	ADP	fixed	21	 O	(N_EZ برابر))	26
+5	391	همه	همه	PRON	det	24	 O	(DP (DET_EZ همه)	26
+5	392	تلاش‌هایی	تلاش	NOUN	obl	25	 O	(N تلاش‌هایی)))	26
+5	393	است	است	VERB	root	-1	 O	(V است)))	26
+5	394	که	که	SCONJ	mark	36	 O	(CL (CONJ که)	27
+5	395	می‌خواهند	خواه	VERB	aux	36	 O	(VPSD (VP (AUX (V می‌خواهند))	27
+5	396	از	از	ADP	case	29	 O	(VP_C (VP (PP (PREP از)	27
+5	397	آرامش	آرامش	NOUN	obl	36	 O	(NP (NP_C (N آرامش)	27
+5	398	،	،	PUNCT	punct	31	 O	(NP_C (PUNC ،)	27
+5	399	امنیت	امنیت	NOUN	conj	29	 O	(NP_C (N امنیت)	27
+5	400	و	و	CCONJ	cc	33	 O	(N_C (CONJ و)	27
+5	401	ثبات	ثبات	NOUN	conj	31	 O	(N_EZ ثبات)))))	27
+5	402	ایران	ایران	NOUN	nmod:poss	33	 B-org	(N ایران)))	27
+5	403	انتقام	انتقام	NOUN	compound:lvc	36	 O	(MV (N انتقام)	27
+5	404	بگیرند	گیر	VERB	ccomp	25	 O	(V بگیرند)))	27
+5	405	و	و	CCONJ	cc	47	 O	(VP_C (CONJ و)	28
+5	406	راه	راه	NOUN	obj	47	 O	(VP (NP (NP (NP (N_EZ راه)	28
+5	407	دشوار	دشوار	ADJ	amod	38	 O	(ADJP_C (ADJ دشوار)	28
+5	408	اما	اما	CCONJ	cc	41	 O	(ADJ_C (CONJ اما)	28
+5	409	خوش	خوش	ADJ	conj	38	 O	(ADJ_EZ خوش))))	28
+5	410	فرجام	فرجام	NOUN	obj	47	 O	(NP (N_EZ فرجام)	28
+5	411	مردم	مردم	NOUN	nmod:poss	42	 O	(NP (N_EZ مردم)	28
+5	412	سالاری	سالاری	ADJ	amod	43	 O	(N سالاری))))	28
+5	413	را	را	PART	case	38	 O	(POSTP را))	28
+5	414	مسدود	مسدود	ADJ	compound:lvc	47	 O	(MV (ADJ مسدود)	28
+5	415	کنند	کن	VERB	conj	36	 O	(V کنند))))))))))	28
+5	416	.	.	PUNCT	punct	25	 0	(PUNC .)) )	28

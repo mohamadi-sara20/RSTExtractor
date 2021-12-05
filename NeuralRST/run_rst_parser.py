@@ -19,7 +19,7 @@ from models.config import Config
 from models.architecture import MainArchitecture
 
 
-main_path='/home/ffajri/'
+main_path=''
 def main():
     args_parser = argparse.ArgumentParser()
     args_parser.add_argument('--config_path', required=True)
